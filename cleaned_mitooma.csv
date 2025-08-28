@@ -1,0 +1,1749 @@
+ Age,Gender,Parish,Parent_Education_Level,Diagnosed_with_Longterm_Condition,Type_of_Health_Condition,On_Regula_Medication,Hospitalized_in_Past 12_Months,Cause_of_Hospitalization,Vaccines_Received,Experinced_Side_Effects,Observed_Symptoms,Duration_of_Symptoms,Sought_Medical_Attention,Distance_to_Health_Center,Meals_Per_Day,Monitore_by_Health_Worker
+12,Male,Rutookye TC,Below Primary,Yes,Other,Yes,Yes,Malaria,BCG,Yes,Seizures,3 to 5 days,Yes,2?5km,Once,No
+12,Male,Rutookye TC,Below Primary,Yes,Other,Yes,Yes,Malaria,Measles,Yes,Seizures,3 to 5 days,Yes,2?5km,Once,No
+4,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+7,Male,Kashenshero TC,Secondary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Male,Kashenshero TC,Secondary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Male,Kashenshero TC,Secondary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Male,Kashenshero TC,Secondary,No,Normal,No,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Three times,No
+9,Male,Rurehe,Tertiary,Yes,Sickle Cell,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+9,Male,Rurehe,Tertiary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+12,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+12,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+6,Female,Kabira,Primary,Yes,Heart Disease,No,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Female,Kabira,Primary,Yes,Heart Disease,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Female,Kabira,Primary,Yes,Heart Disease,No,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+5,Male,Mutara,Tertiary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+5,Male,Mutara,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+5,Male,Mutara,Tertiary,Yes,Heart Disease,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+9,Male,Kashenshero TC,Below Primary,No,Normal,No,Yes,Other,DPT,Yes,Swelling,3 to 5 days,Yes,More than 5km,Three times,No
+5,Male,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,BCG,Yes,Vomiting,Less than 24 hours,Yes,Less than 2km,Once,No
+5,Male,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Measles,Yes,Vomiting,Less than 24 hours,Yes,Less than 2km,Once,No
+2,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+2,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+5,Male,Mitooma,Tertiary,Yes,HIV_AIDS,No,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+5,Female,Rurehe,Secondary,Yes,Other,Yes,Yes,Infection,BCG,Yes,Swelling,More than 5 days,Yes,More than 5km,Rarely,No
+5,Female,Rurehe,Secondary,Yes,Other,Yes,Yes,Infection,Measles,Yes,Swelling,More than 5 days,Yes,More than 5km,Rarely,No
+10,Male,Mayanga,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Once,Yes
+5,Male,Kashenshero,Primary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Rash,3 to 5 days,No,More than 5km,Once,No
+5,Male,Kashenshero,Primary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Rash,3 to 5 days,No,More than 5km,Once,No
+11,Female,Mayanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,More than 5km,Three times,No
+5,Female,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+5,Female,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Three times,No
+1,Female,Mitooma,Tertiary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+12,Male,Kanyabwanga,Below Primary,No,Normal,No,Yes,Other,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Male,Kanyabwanga,Below Primary,No,Normal,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Male,Kanyabwanga,Below Primary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Male,Kanyabwanga,Below Primary,No,Normal,No,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+3,Female,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Other,Polio,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,Yes
+3,Female,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Other,Measles,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,Yes
+3,Male,Kabira,Tertiary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+3,Male,Kabira,Tertiary,Yes,Sickle Cell,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+3,Male,Kashenshero,Tertiary,No,Normal,Yes,Yes,Other,Other,Yes,Seizures,Less than 24 hours,No,More than 5km,Twice,Yes
+3,Male,Kashenshero,Tertiary,No,Normal,Yes,Yes,Other,Polio,Yes,Seizures,Less than 24 hours,No,More than 5km,Twice,Yes
+3,Male,Kashenshero,Tertiary,No,Normal,Yes,Yes,Other,DPT,Yes,Seizures,Less than 24 hours,No,More than 5km,Twice,Yes
+10,Female,Mutara,Primary,Yes,Heart Disease,Yes,Yes,Accident,Measles,Yes,Other,Less than 24 hours,No,More than 5km,Rarely,Yes
+10,Female,Mutara,Primary,Yes,Heart Disease,Yes,Yes,Accident,Polio,Yes,Other,Less than 24 hours,No,More than 5km,Rarely,Yes
+10,Female,Mutara,Primary,Yes,Heart Disease,Yes,Yes,Accident,DPT,Yes,Other,Less than 24 hours,No,More than 5km,Rarely,Yes
+3,Male,Katenga,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Katenga,Below Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Katenga,Below Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Katenga,Below Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+10,Male,Kashenshero,Secondary,Yes,Heart Disease,No,Yes,Other,Polio,Yes,Swelling,More than 5 days,No,Less than 2km,Once,Yes
+10,Male,Kashenshero,Secondary,Yes,Heart Disease,No,Yes,Other,BCG,Yes,Swelling,More than 5 days,No,Less than 2km,Once,Yes
+10,Male,Kashenshero,Secondary,Yes,Heart Disease,No,Yes,Other,Other,Yes,Swelling,More than 5 days,No,Less than 2km,Once,Yes
+10,Male,Kashenshero,Secondary,Yes,Heart Disease,No,Yes,Other,Measles,Yes,Swelling,More than 5 days,No,Less than 2km,Once,Yes
+9,Female,Mutara,Secondary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,Yes
+9,Female,Mutara,Secondary,No,Normal,No,No,Normal,Measles,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,Yes
+2,Male,Mitooma,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Three times,Yes
+2,Male,Mitooma,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Measles,Yes,Seizures,3 to 5 days,Yes,More than 5km,Three times,Yes
+8,Male,Bitereko,Tertiary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+11,Male,Mayanga,Secondary,No,Normal,Yes,No,Normal,Other,Yes,Seizures,More than 5 days,No,2?5km,Three times,Yes
+11,Male,Mayanga,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Seizures,More than 5 days,No,2?5km,Three times,Yes
+4,Female,Mutara,Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+4,Female,Mutara,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+2,Female,Mitooma TC,Secondary,Yes,Other,Yes,No,Normal,DPT,Yes,Fever,More than 5 days,Yes,2?5km,Three times,No
+2,Female,Mitooma TC,Secondary,Yes,Other,Yes,No,Normal,Polio,Yes,Fever,More than 5 days,Yes,2?5km,Three times,No
+3,Female,Kiyanga,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+2,Female,Mitooma,Secondary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+2,Female,Mitooma,Secondary,Yes,Heart Disease,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+2,Female,Mitooma,Secondary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+9,Male,Rurehe,Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Female,Bitereko,Tertiary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+2,Female,Bitereko,Tertiary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+2,Female,Bitereko,Tertiary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+6,Female,Mitooma TC,Primary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Female,Mitooma TC,Primary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Female,Mitooma TC,Primary,No,Normal,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+3,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+8,Female,Kiyanga,Secondary,Yes,Other,No,No,Normal,DPT,Yes,Swelling,3 to 5 days,Yes,More than 5km,Twice,No
+3,Male,Mutara,Below Primary,Yes,Heart Disease,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+8,Female,Mutara,Below Primary,No,Normal,No,No,Normal,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Twice,No
+3,Female,Bitereko,Tertiary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+8,Female,Kanyabwanga,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Fever,3 to 5 days,No,More than 5km,Three times,Yes
+8,Female,Kanyabwanga,Tertiary,No,Normal,No,No,Normal,Other,Yes,Fever,3 to 5 days,No,More than 5km,Three times,Yes
+8,Female,Kanyabwanga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Fever,3 to 5 days,No,More than 5km,Three times,Yes
+8,Female,Kanyabwanga,Tertiary,No,Normal,No,No,Normal,Polio,Yes,Fever,3 to 5 days,No,More than 5km,Three times,Yes
+4,Female,Kanyabwanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Female,Kanyabwanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Female,Kanyabwanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Female,Kanyabwanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Male,Mutara,Secondary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+8,Male,Kashenshero TC,Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Seizures,More than 5 days,No,Less than 2km,Three times,Yes
+9,Female,Rutookye TC,Below Primary,Yes,Other,No,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+4,Female,Kashenshero,Primary,Yes,Asthma,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Female,Kashenshero,Primary,Yes,Asthma,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Female,Kashenshero,Primary,Yes,Asthma,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Female,Kashenshero,Primary,Yes,Asthma,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+11,Male,Bitereko,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,2?5km,Rarely,Yes
+1,Male,Rurehe,Primary,Yes,Asthma,Yes,Yes,Other,DPT,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+1,Male,Rurehe,Primary,Yes,Asthma,Yes,Yes,Other,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+1,Male,Rurehe,Primary,Yes,Asthma,Yes,Yes,Other,Other,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+1,Male,Rurehe,Primary,Yes,Asthma,Yes,Yes,Other,Measles,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+10,Male,Mayanga,Tertiary,Yes,Sickle Cell,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Mayanga,Tertiary,Yes,Sickle Cell,No,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+11,Female,Mitooma,Secondary,Yes,Asthma,No,No,Normal,DPT,Yes,Rash,More than 5 days,Yes,Less than 2km,Twice,No
+5,Male,Rutookye TC,Below Primary,No,Normal,No,Yes,Infection,Other,Yes,Fever,3 to 5 days,Yes,Less than 2km,Rarely,Yes
+5,Male,Rutookye TC,Below Primary,No,Normal,No,Yes,Infection,BCG,Yes,Fever,3 to 5 days,Yes,Less than 2km,Rarely,Yes
+12,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+10,Female,Kanyabwanga,Primary,No,Normal,Yes,Yes,Other,Other,Yes,Swelling,Less than 24 hours,No,Less than 2km,Twice,No
+10,Female,Kanyabwanga,Primary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,Less than 2km,Twice,No
+9,Male,Rurehe,Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+9,Male,Rurehe,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Male,Mutara,Tertiary,Yes,Asthma,No,No,Normal,Polio,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,Yes
+2,Male,Mutara,Tertiary,Yes,Asthma,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,Yes
+4,Male,Kanyabwanga,Primary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+12,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+1,Female,Mitooma,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Female,Mitooma,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+6,Male,Kashenshero,Below Primary,No,Normal,No,Yes,Other,DPT,Yes,Fever,3 to 5 days,No,Less than 2km,Three times,Yes
+6,Male,Kashenshero,Below Primary,No,Normal,No,Yes,Other,Other,Yes,Fever,3 to 5 days,No,Less than 2km,Three times,Yes
+6,Male,Kashenshero,Below Primary,No,Normal,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,Yes
+6,Male,Kashenshero,Below Primary,No,Normal,No,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,Yes
+6,Male,Kashenshero,Below Primary,No,Normal,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,Yes
+9,Male,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Rash,More than 5 days,No,2?5km,Three times,Yes
+9,Male,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Rash,More than 5 days,No,2?5km,Three times,Yes
+9,Male,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,Other,Yes,Rash,More than 5 days,No,2?5km,Three times,Yes
+9,Male,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Rash,More than 5 days,No,2?5km,Three times,Yes
+2,Male,Mitooma,Below Primary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Three times,No
+2,Male,Mitooma,Below Primary,Yes,Heart Disease,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+2,Male,Mitooma,Below Primary,Yes,Heart Disease,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+2,Male,Mitooma,Below Primary,Yes,Heart Disease,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+2,Female,Kanyabwanga,Tertiary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+2,Female,Kanyabwanga,Tertiary,No,Normal,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+9,Male,Mutara,Below Primary,No,Normal,No,Yes,Malaria,Measles,Yes,Other,More than 5 days,No,2?5km,Rarely,Yes
+9,Male,Mutara,Below Primary,No,Normal,No,Yes,Malaria,DPT,Yes,Other,More than 5 days,No,2?5km,Rarely,Yes
+9,Male,Mutara,Below Primary,No,Normal,No,Yes,Malaria,Polio,Yes,Other,More than 5 days,No,2?5km,Rarely,Yes
+8,Female,Katenga,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+12,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Rash,More than 5 days,Yes,More than 5km,Three times,No
+12,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Measles,Yes,Rash,More than 5 days,Yes,More than 5km,Three times,No
+12,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,BCG,Yes,Rash,More than 5 days,Yes,More than 5km,Three times,No
+3,Female,Mitooma,Secondary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+3,Male,Mutara,Primary,Yes,Sickle Cell,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+3,Male,Mutara,Primary,Yes,Sickle Cell,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Female,Kashenshero TC,Below Primary,Yes,Heart Disease,No,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+8,Female,Kashenshero TC,Below Primary,Yes,Heart Disease,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+6,Male,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Malaria,Measles,Yes,Swelling,Less than 24 hours,No,2?5km,Rarely,No
+6,Male,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Malaria,Other,Yes,Swelling,Less than 24 hours,No,2?5km,Rarely,No
+6,Male,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Malaria,DPT,Yes,Swelling,Less than 24 hours,No,2?5km,Rarely,No
+4,Female,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Measles,Yes,Fever,Less than 24 hours,Yes,2?5km,Twice,No
+4,Female,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Other,Yes,Fever,Less than 24 hours,Yes,2?5km,Twice,No
+10,Male,Bitereko,Below Primary,Yes,Asthma,No,Yes,Malaria,Measles,Yes,Other,3 to 5 days,No,More than 5km,Three times,No
+10,Male,Bitereko,Below Primary,Yes,Asthma,No,Yes,Malaria,Polio,Yes,Other,3 to 5 days,No,More than 5km,Three times,No
+10,Male,Bitereko,Below Primary,Yes,Asthma,No,Yes,Malaria,BCG,Yes,Other,3 to 5 days,No,More than 5km,Three times,No
+9,Male,Rurehe,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Rash,3 to 5 days,Yes,2?5km,Twice,Yes
+4,Female,Kashenshero,Secondary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Female,Kashenshero,Secondary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Female,Kashenshero,Secondary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Female,Kashenshero,Secondary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Female,Kashenshero TC,Secondary,Yes,Other,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,Yes,More than 5km,Three times,No
+2,Female,Kashenshero TC,Secondary,Yes,Other,Yes,No,Normal,Polio,Yes,Swelling,3 to 5 days,Yes,More than 5km,Three times,No
+2,Female,Kashenshero TC,Secondary,Yes,Other,Yes,No,Normal,BCG,Yes,Swelling,3 to 5 days,Yes,More than 5km,Three times,No
+8,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Infection,Measles,Yes,Seizures,More than 5 days,No,More than 5km,Three times,Yes
+3,Female,Bitereko,Secondary,No,Normal,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+3,Female,Bitereko,Secondary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+3,Female,Bitereko,Secondary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+3,Female,Bitereko,Secondary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Male,Bitereko,Tertiary,No,Normal,No,Yes,Accident,DPT,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,No
+6,Male,Bitereko,Tertiary,No,Normal,No,Yes,Accident,Measles,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,No
+6,Male,Bitereko,Below Primary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Male,Bitereko,Below Primary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Male,Bitereko,Below Primary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Male,Bitereko,Below Primary,No,Normal,No,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+3,Male,Mutara,Below Primary,Yes,HIV_AIDS,No,No,Normal,Measles,Yes,Seizures,1 to 2 days,No,Less than 2km,Twice,Yes
+11,Male,Katenga,Tertiary,Yes,Heart Disease,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+11,Male,Katenga,Tertiary,Yes,Heart Disease,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+7,Male,Rurehe,Primary,Yes,Asthma,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+7,Male,Rurehe,Primary,Yes,Asthma,No,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+7,Male,Rurehe,Primary,Yes,Asthma,No,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+7,Male,Rurehe,Primary,Yes,Asthma,No,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+1,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+1,Male,Mitooma,Tertiary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Rash,Less than 24 hours,No,More than 5km,Twice,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Rash,Less than 24 hours,No,More than 5km,Twice,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Rash,Less than 24 hours,No,More than 5km,Twice,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,Other,Yes,Rash,Less than 24 hours,No,More than 5km,Twice,No
+9,Male,Mitooma,Primary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+9,Male,Mitooma,Primary,No,Normal,No,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+9,Male,Mayanga,Secondary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Male,Mayanga,Secondary,No,Normal,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+5,Male,Mitooma TC,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Rash,1 to 2 days,Yes,2?5km,Once,No
+12,Male,Bitereko,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+12,Male,Bitereko,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+12,Male,Bitereko,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+11,Female,Mitooma,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+11,Female,Mitooma,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+11,Female,Mitooma,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Female,Mitooma,Tertiary,No,Normal,No,Yes,Infection,Polio,Yes,Vomiting,More than 5 days,Yes,Less than 2km,Rarely,No
+7,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Mitooma TC,Secondary,No,Normal,No,No,Normal,BCG,Yes,Rash,Less than 24 hours,No,2?5km,Three times,No
+10,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Accident,Measles,Yes,Vomiting,3 to 5 days,No,2?5km,Rarely,Yes
+10,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Vomiting,3 to 5 days,No,2?5km,Rarely,Yes
+10,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Vomiting,3 to 5 days,No,2?5km,Rarely,Yes
+11,Male,Katenga,Tertiary,Yes,Heart Disease,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,No,Yes,Accident,DPT,Yes,Vomiting,Less than 24 hours,Yes,Less than 2km,Once,Yes
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,No,Yes,Accident,BCG,Yes,Vomiting,Less than 24 hours,Yes,Less than 2km,Once,Yes
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,No,Yes,Accident,Measles,Yes,Vomiting,Less than 24 hours,Yes,Less than 2km,Once,Yes
+12,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+12,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+12,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+12,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Mitooma TC,Secondary,No,Normal,No,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Male,Mutara,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+4,Male,Mutara,Secondary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+4,Male,Mutara,Secondary,No,Normal,Yes,No,Normal,Polio,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+12,Female,Rutookye TC,Below Primary,Yes,Asthma,No,No,Normal,Other,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,No
+12,Female,Rutookye TC,Below Primary,Yes,Asthma,No,No,Normal,Measles,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,No
+6,Female,Kiyanga,Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+7,Male,Kiyanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Kiyanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Kiyanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Kiyanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+11,Male,Bitereko,Below Primary,Yes,Other,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+11,Male,Bitereko,Below Primary,Yes,Other,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+8,Male,Kashenshero TC,Primary,Yes,Asthma,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Male,Kashenshero TC,Primary,Yes,Asthma,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Male,Kashenshero TC,Primary,Yes,Asthma,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Male,Kashenshero TC,Primary,Yes,Asthma,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+6,Male,Bitereko,Below Primary,Yes,Other,No,No,Normal,Measles,Yes,Swelling,1 to 2 days,Yes,Less than 2km,Once,No
+11,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+11,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+11,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+11,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+6,Male,Kanyabwanga,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+11,Female,Mutara,Below Primary,Yes,Heart Disease,Yes,Yes,Infection,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,No
+11,Female,Mutara,Below Primary,Yes,Heart Disease,Yes,Yes,Infection,Polio,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,No
+11,Female,Mutara,Below Primary,Yes,Heart Disease,Yes,Yes,Infection,DPT,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,No
+1,Female,Kashenshero TC,Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,Less than 2km,Rarely,Yes
+1,Female,Kashenshero TC,Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Swelling,1 to 2 days,Yes,Less than 2km,Rarely,Yes
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+4,Male,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Accident,Measles,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+4,Male,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Accident,Other,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+4,Male,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Accident,DPT,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+4,Male,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Accident,BCG,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+6,Male,Mayanga,Tertiary,No,Normal,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+6,Male,Mayanga,Tertiary,No,Normal,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+6,Male,Mayanga,Tertiary,No,Normal,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+6,Male,Mayanga,Tertiary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+10,Male,Mitooma,Secondary,Yes,HIV_AIDS,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+4,Female,Rutookye TC,Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,Yes
+4,Female,Rutookye TC,Primary,Yes,HIV_AIDS,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,Yes
+4,Female,Rutookye TC,Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,Yes
+2,Female,Rurehe,Tertiary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+2,Female,Rurehe,Tertiary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+10,Female,Mutara,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Female,Mutara,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Female,Mutara,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Male,Mitooma TC,Primary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+9,Male,Mutara,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+9,Male,Mutara,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+4,Male,Kabira,Secondary,No,Normal,No,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+3,Female,Bitereko,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,No
+3,Female,Bitereko,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,No
+3,Female,Bitereko,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Once,No
+8,Male,Mutara,Below Primary,Yes,Heart Disease,No,Yes,Other,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+8,Male,Mutara,Below Primary,Yes,Heart Disease,No,Yes,Other,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+8,Male,Mutara,Below Primary,Yes,Heart Disease,No,Yes,Other,BCG,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+8,Male,Mutara,Below Primary,Yes,Heart Disease,No,Yes,Other,Polio,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+5,Male,Kashenshero,Primary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+5,Male,Mutara,Below Primary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Rash,3 to 5 days,No,Less than 2km,Once,No
+5,Male,Mutara,Below Primary,Yes,Heart Disease,Yes,No,Normal,Measles,Yes,Rash,3 to 5 days,No,Less than 2km,Once,No
+5,Male,Mutara,Below Primary,Yes,Heart Disease,Yes,No,Normal,Other,Yes,Rash,3 to 5 days,No,Less than 2km,Once,No
+5,Male,Mutara,Below Primary,Yes,Heart Disease,Yes,No,Normal,Polio,Yes,Rash,3 to 5 days,No,Less than 2km,Once,No
+3,Female,Bitereko,Secondary,No,Normal,Yes,Yes,Infection,Polio,Yes,Seizures,1 to 2 days,No,More than 5km,Once,Yes
+5,Female,Kabira,Below Primary,No,Normal,No,No,Normal,Measles,Yes,Seizures,1 to 2 days,No,More than 5km,Once,Yes
+5,Female,Kabira,Below Primary,No,Normal,No,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,More than 5km,Once,Yes
+5,Female,Kabira,Below Primary,No,Normal,No,No,Normal,DPT,Yes,Seizures,1 to 2 days,No,More than 5km,Once,Yes
+5,Female,Kabira,Below Primary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,No,More than 5km,Once,Yes
+11,Female,Katenga,Primary,Yes,Other,Yes,No,Normal,DPT,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+11,Female,Katenga,Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+11,Female,Katenga,Primary,Yes,Other,Yes,No,Normal,Measles,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+11,Female,Katenga,Primary,Yes,Other,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+7,Male,Kashenshero,Secondary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Kiyanga,Primary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Male,Kiyanga,Primary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Male,Kiyanga,Primary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+2,Male,Mitooma,Secondary,No,Normal,Yes,Yes,Malaria,DPT,Yes,Swelling,3 to 5 days,Yes,2?5km,Twice,Yes
+2,Male,Mitooma,Secondary,No,Normal,Yes,Yes,Malaria,Polio,Yes,Swelling,3 to 5 days,Yes,2?5km,Twice,Yes
+9,Male,Bitereko,Secondary,Yes,Asthma,Yes,Yes,Other,BCG,Yes,Fever,More than 5 days,Yes,More than 5km,Three times,Yes
+9,Male,Bitereko,Secondary,Yes,Asthma,Yes,Yes,Other,Measles,Yes,Fever,More than 5 days,Yes,More than 5km,Three times,Yes
+9,Male,Bitereko,Secondary,Yes,Asthma,Yes,Yes,Other,DPT,Yes,Fever,More than 5 days,Yes,More than 5km,Three times,Yes
+9,Male,Bitereko,Secondary,Yes,Asthma,Yes,Yes,Other,Polio,Yes,Fever,More than 5 days,Yes,More than 5km,Three times,Yes
+5,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Fever,Less than 24 hours,No,More than 5km,Once,Yes
+5,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Fever,Less than 24 hours,No,More than 5km,Once,Yes
+5,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Other,Yes,Fever,Less than 24 hours,No,More than 5km,Once,Yes
+5,Male,Kabira,Below Primary,No,Normal,Yes,No,Normal,Other,Yes,Rash,More than 5 days,Yes,Less than 2km,Twice,Yes
+5,Male,Kabira,Below Primary,No,Normal,Yes,No,Normal,Measles,Yes,Rash,More than 5 days,Yes,Less than 2km,Twice,Yes
+5,Male,Kabira,Below Primary,No,Normal,Yes,No,Normal,BCG,Yes,Rash,More than 5 days,Yes,Less than 2km,Twice,Yes
+2,Male,Kiyanga,Below Primary,Yes,Asthma,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+2,Male,Kiyanga,Below Primary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+2,Male,Kabira,Tertiary,Yes,Other,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+2,Male,Kabira,Tertiary,Yes,Other,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+2,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,Other,Yes,Rash,More than 5 days,Yes,2?5km,Once,No
+2,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,DPT,Yes,Rash,More than 5 days,Yes,2?5km,Once,No
+6,Male,Mutara,Secondary,Yes,Sickle Cell,No,Yes,Accident,DPT,Yes,Seizures,1 to 2 days,No,More than 5km,Rarely,No
+6,Male,Mutara,Secondary,Yes,Sickle Cell,No,Yes,Accident,Measles,Yes,Seizures,1 to 2 days,No,More than 5km,Rarely,No
+6,Male,Mutara,Secondary,Yes,Sickle Cell,No,Yes,Accident,BCG,Yes,Seizures,1 to 2 days,No,More than 5km,Rarely,No
+6,Male,Mutara,Secondary,Yes,Sickle Cell,No,Yes,Accident,Polio,Yes,Seizures,1 to 2 days,No,More than 5km,Rarely,No
+6,Male,Katenga,Secondary,Yes,Heart Disease,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Once,No
+6,Male,Katenga,Secondary,Yes,Heart Disease,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+6,Male,Katenga,Secondary,Yes,Heart Disease,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+11,Female,Mutara,Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+1,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+5,Female,Bitereko,Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+5,Female,Bitereko,Primary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+5,Female,Bitereko,Primary,No,Normal,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+7,Male,Mitooma TC,Below Primary,No,Normal,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+7,Male,Mitooma TC,Below Primary,No,Normal,No,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+7,Male,Mitooma TC,Below Primary,No,Normal,No,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+10,Male,Mitooma,Primary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+10,Male,Mitooma,Primary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+10,Male,Mitooma,Primary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+10,Male,Mitooma,Primary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+1,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,Less than 2km,Twice,No
+1,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,DPT,Yes,Seizures,3 to 5 days,No,Less than 2km,Twice,No
+4,Male,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+4,Male,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+7,Female,Katenga,Tertiary,No,Normal,Yes,Yes,Other,BCG,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+7,Female,Katenga,Tertiary,No,Normal,Yes,Yes,Other,DPT,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+7,Female,Katenga,Tertiary,No,Normal,Yes,Yes,Other,Polio,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+12,Male,Kanyabwanga,Tertiary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+12,Male,Kanyabwanga,Tertiary,No,Normal,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+6,Male,Kiyanga,Tertiary,No,Normal,No,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+5,Female,Kashenshero,Below Primary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+8,Female,Kiyanga,Primary,Yes,HIV)_AIDS,Yes,No,Normal,DPT,Yes,Seizures,1 to 2 days,No,2?5km,Three times,No
+8,Female,Kiyanga,Primary,Yes,HIV)_AIDS,Yes,No,Normal,Other,Yes,Seizures,1 to 2 days,No,2?5km,Three times,No
+2,Male,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+5,Female,Mutara,Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,2?5km,Three times,No
+5,Female,Mutara,Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,Yes,Swelling,More than 5 days,No,2?5km,Three times,No
+5,Female,Mutara,Primary,Yes,HIV_AIDS,Yes,No,Normal,Measles,Yes,Swelling,More than 5 days,No,2?5km,Three times,No
+5,Female,Mutara,Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,Yes,Swelling,More than 5 days,No,2?5km,Three times,No
+8,Female,Mutara,Below Primary,No,Normal,Yes,No,Normal,Polio,Yes,Vomiting,3 to 5 days,Yes,2?5km,Three times,No
+8,Female,Mutara,Below Primary,No,Normal,Yes,No,Normal,Measles,Yes,Vomiting,3 to 5 days,Yes,2?5km,Three times,No
+8,Female,Mutara,Below Primary,No,Normal,Yes,No,Normal,BCG,Yes,Vomiting,3 to 5 days,Yes,2?5km,Three times,No
+2,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Other,Polio,Yes,Swelling,More than 5 days,No,2?5km,Once,Yes
+2,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Other,Measles,Yes,Swelling,More than 5 days,No,2?5km,Once,Yes
+2,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Other,Other,Yes,Swelling,More than 5 days,No,2?5km,Once,Yes
+10,Male,Kashenshero,Below Primary,Yes,Sickle Cell,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+10,Male,Kashenshero,Below Primary,Yes,Sickle Cell,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+10,Male,Kashenshero,Below Primary,Yes,Sickle Cell,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+10,Male,Kashenshero,Below Primary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+11,Male,Katenga,Primary,Yes,Heart Disease,No,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+5,Male,Bitereko,Below Primary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+5,Male,Bitereko,Below Primary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+5,Male,Bitereko,Below Primary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Kiyanga,Below Primary,Yes,Heart Disease,No,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+9,Male,Mutara,Below Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Swelling,Less than 24 hours,No,Less than 2km,Rarely,No
+9,Male,Mutara,Below Primary,Yes,Other,Yes,No,Normal,BCG,Yes,Swelling,Less than 24 hours,No,Less than 2km,Rarely,No
+9,Male,Mutara,Below Primary,Yes,Other,Yes,No,Normal,Other,Yes,Swelling,Less than 24 hours,No,Less than 2km,Rarely,No
+7,Female,Kashenshero,Secondary,Yes,HIV_AIDS,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Female,Kashenshero,Secondary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Female,Kashenshero,Secondary,Yes,HIV_AIDS,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+5,Female,Kabira,Primary,No,Normal,No,Yes,Accident,Measles,Yes,Fever,1 to 2 days,No,2?5km,Three times,No
+5,Female,Kabira,Primary,No,Normal,No,Yes,Accident,Polio,Yes,Fever,1 to 2 days,No,2?5km,Three times,No
+7,Male,Kabira,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+7,Male,Kabira,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+7,Male,Kabira,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+1,Male,Kiyanga,Tertiary,Yes,Sickle Cell,No,Yes,Infection,DPT,Yes,Fever,Less than 24 hours,No,More than 5km,Twice,Yes
+1,Male,Kiyanga,Tertiary,Yes,Sickle Cell,No,Yes,Infection,Other,Yes,Fever,Less than 24 hours,No,More than 5km,Twice,Yes
+1,Male,Kiyanga,Tertiary,Yes,Sickle Cell,No,Yes,Infection,Polio,Yes,Fever,Less than 24 hours,No,More than 5km,Twice,Yes
+1,Male,Kiyanga,Tertiary,Yes,Sickle Cell,No,Yes,Infection,BCG,Yes,Fever,Less than 24 hours,No,More than 5km,Twice,Yes
+2,Female,Rurehe,Below Primary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,No
+2,Female,Rurehe,Below Primary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Once,No
+2,Female,Rurehe,Below Primary,Yes,Heart Disease,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+1,Female,Rurehe,Below Primary,Yes,Asthma,No,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,2?5km,Once,Yes
+1,Female,Rurehe,Below Primary,Yes,Asthma,No,No,Normal,BCG,Yes,Swelling,1 to 2 days,Yes,2?5km,Once,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Male,Mitooma TC,Below Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Kashenshero,Below Primary,Yes,Heart Disease,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Kashenshero,Below Primary,Yes,Heart Disease,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Once,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+8,Male,Kiyanga,Tertiary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+12,Male,Kabira,Secondary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+1,Female,Kashenshero,Primary,No,Normal,Yes,Yes,Infection,Polio,Yes,Swelling,3 to 5 days,Yes,More than 5km,Rarely,Yes
+1,Female,Kashenshero,Primary,No,Normal,Yes,Yes,Infection,Measles,Yes,Swelling,3 to 5 days,Yes,More than 5km,Rarely,Yes
+1,Female,Kashenshero,Primary,No,Normal,Yes,Yes,Infection,BCG,Yes,Swelling,3 to 5 days,Yes,More than 5km,Rarely,Yes
+2,Female,Rurehe,Tertiary,Yes,Other,Yes,Yes,Malaria,DPT,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,Yes
+2,Female,Rurehe,Tertiary,Yes,Other,Yes,Yes,Malaria,BCG,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,Yes
+12,Male,Kashenshero,Primary,Yes,Other,No,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+5,Male,Kabira,Secondary,No,Normal,No,Yes,Accident,BCG,Yes,Fever,Less than 24 hours,Yes,Less than 2km,Rarely,No
+1,Male,Bitereko,Primary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Male,Bitereko,Primary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Male,Bitereko,Primary,No,Normal,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Male,Bitereko,Primary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+6,Male,Mayanga,Primary,No,Normal,No,No,Normal,DPT,Yes,Swelling,3 to 5 days,No,2?5km,Three times,Yes
+6,Male,Mayanga,Primary,No,Normal,No,No,Normal,Polio,Yes,Swelling,3 to 5 days,No,2?5km,Three times,Yes
+6,Male,Mayanga,Primary,No,Normal,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,No,2?5km,Three times,Yes
+6,Male,Mayanga,Primary,No,Normal,No,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,2?5km,Three times,Yes
+10,Female,Kashenshero TC,Secondary,No,Normal,No,Yes,Infection,Polio,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,No
+10,Female,Kashenshero TC,Secondary,No,Normal,No,Yes,Infection,DPT,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,No
+10,Female,Kashenshero TC,Secondary,No,Normal,No,Yes,Infection,Other,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,No
+10,Female,Kashenshero TC,Secondary,No,Normal,No,Yes,Infection,BCG,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,No
+7,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,Yes,Infection,DPT,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+7,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,Yes,Infection,BCG,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+7,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,Yes,Infection,Other,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+7,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,Yes,Infection,Measles,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+4,Male,Rurehe,Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+4,Female,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Infection,BCG,Yes,Vomiting,1 to 2 days,No,More than 5km,Rarely,No
+4,Female,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Infection,Polio,Yes,Vomiting,1 to 2 days,No,More than 5km,Rarely,No
+6,Female,Mitooma TC,Secondary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Mitooma TC,Secondary,No,Normal,No,Yes,Other,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Mitooma TC,Secondary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Mitooma TC,Secondary,No,Normal,No,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+10,Female,Kashenshero,Tertiary,No,Normal,No,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,More than 5km,Three times,No
+2,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+2,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+2,Female,Kanyabwanga,Secondary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Once,No
+8,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,Polio,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+8,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,BCG,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+8,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,Measles,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+8,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,DPT,Yes,Seizures,More than 5 days,No,2?5km,Once,No
+8,Male,Mayanga,Tertiary,No,Normal,No,Yes,Infection,Measles,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+8,Male,Mayanga,Tertiary,No,Normal,No,Yes,Infection,Polio,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+8,Male,Mayanga,Tertiary,No,Normal,No,Yes,Infection,DPT,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+8,Male,Mayanga,Tertiary,No,Normal,No,Yes,Infection,BCG,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+12,Male,Kiyanga,Tertiary,No,Normal,Yes,Yes,Accident,Measles,Yes,Rash,More than 5 days,No,More than 5km,Three times,No
+9,Female,Rutookye TC,Secondary,Yes,Sickle Cell,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,More than 5km,Three times,Yes
+11,Male,Rutookye TC,Secondary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+11,Male,Rutookye TC,Secondary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+2,Female,Mayanga,Below Primary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,3 to 5 days,Yes,2?5km,Twice,No
+12,Male,Kabira,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,Less than 2km,Once,Yes
+12,Male,Kabira,Secondary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,3 to 5 days,No,Less than 2km,Once,Yes
+12,Male,Kabira,Secondary,No,Normal,Yes,No,Normal,BCG,Yes,Swelling,3 to 5 days,No,Less than 2km,Once,Yes
+9,Male,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+9,Male,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+9,Male,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+9,Male,Kashenshero,Tertiary,Yes,Heart Disease,No,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+9,Male,Kashenshero,Tertiary,Yes,Heart Disease,No,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+1,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,BCG,Yes,Seizures,More than 5 days,Yes,2?5km,Once,No
+1,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,Measles,Yes,Seizures,More than 5 days,Yes,2?5km,Once,No
+1,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,DPT,Yes,Seizures,More than 5 days,Yes,2?5km,Once,No
+1,Male,Rutookye TC,Primary,No,Normal,No,Yes,Accident,Other,Yes,Seizures,More than 5 days,Yes,2?5km,Once,No
+1,Female,Mutara,Primary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+1,Female,Mutara,Primary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+1,Female,Mutara,Primary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+1,Female,Mutara,Primary,No,Normal,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+1,Female,Mutara,Primary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+1,Female,Mutara,Primary,No,Normal,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+11,Female,Mayanga,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+11,Female,Mayanga,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+11,Female,Mayanga,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+11,Female,Mayanga,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+10,Female,Kashenshero TC,Below Primary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,Less than 2km,Once,Yes
+10,Female,Kashenshero TC,Below Primary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Seizures,More than 5 days,Yes,Less than 2km,Once,Yes
+12,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,Other,Yes,Fever,1 to 2 days,No,2?5km,Rarely,Yes
+12,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,1 to 2 days,No,2?5km,Rarely,Yes
+12,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,DPT,Yes,Fever,1 to 2 days,No,2?5km,Rarely,Yes
+7,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+7,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+7,Male,Bitereko,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+12,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,Other,Yes,Fever,3 to 5 days,Yes,2?5km,Once,No
+12,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,DPT,Yes,Fever,3 to 5 days,Yes,2?5km,Once,No
+12,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,3 to 5 days,Yes,2?5km,Once,No
+4,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Other,Polio,Yes,Vomiting,Less than 24 hours,No,Less than 2km,Three times,Yes
+4,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Other,DPT,Yes,Vomiting,Less than 24 hours,No,Less than 2km,Three times,Yes
+4,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Other,BCG,Yes,Vomiting,Less than 24 hours,No,Less than 2km,Three times,Yes
+5,Female,Katenga,Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+5,Female,Katenga,Primary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+5,Female,Katenga,Primary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+5,Female,Katenga,Primary,No,Normal,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+1,Male,Mitooma TC,Primary,Yes,Other,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+9,Female,Mitooma TC,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Polio,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+9,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Measles,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+9,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,BCG,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+9,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Other,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+11,Female,Kiyanga,Below Primary,No,Normal,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+11,Female,Kiyanga,Below Primary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Once,Yes
+11,Male,Katenga,Tertiary,Yes,Other,No,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+11,Male,Katenga,Tertiary,Yes,Other,No,Yes,Other,Measles,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+11,Male,Katenga,Tertiary,Yes,Other,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+11,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,More than 5km,Three times,No
+11,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Seizures,Less than 24 hours,No,More than 5km,Three times,No
+11,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Seizures,Less than 24 hours,No,More than 5km,Three times,No
+11,Male,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Seizures,Less than 24 hours,No,More than 5km,Three times,No
+12,Male,Rurehe,Tertiary,Yes,HIV_AIDS,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+12,Male,Rurehe,Tertiary,Yes,HIV_AIDS,No,No,Normal,Measles,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+12,Male,Rurehe,Tertiary,Yes,HIV_AIDS,No,No,Normal,DPT,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+12,Male,Rurehe,Tertiary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+8,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Accident,Measles,Yes,Rash,1 to 2 days,Yes,More than 5km,Twice,No
+8,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Rash,1 to 2 days,Yes,More than 5km,Twice,No
+10,Male,Rurehe,Below Primary,No,Normal,Yes,No,Normal,Measles,Yes,Seizures,1 to 2 days,Yes,2?5km,Rarely,No
+7,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,Other,Yes,Fever,Less than 24 hours,Yes,More than 5km,Rarely,Yes
+7,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,Measles,Yes,Fever,Less than 24 hours,Yes,More than 5km,Rarely,Yes
+7,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Fever,Less than 24 hours,Yes,More than 5km,Rarely,Yes
+3,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+3,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+3,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+3,Female,Kashenshero,Below Primary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+1,Female,Kabira,Below Primary,Yes,HIV_AIDS,Yes,Yes,Other,Measles,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,No
+1,Female,Kabira,Below Primary,Yes,HIV_AIDS,Yes,Yes,Other,Polio,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,No
+1,Female,Kabira,Below Primary,Yes,HIV_AIDS,Yes,Yes,Other,DPT,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,No
+1,Female,Kabira,Below Primary,Yes,HIV_AIDS,Yes,Yes,Other,BCG,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,No
+1,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,Polio,Yes,Fever,Less than 24 hours,Yes,2?5km,Three times,No
+1,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Fever,Less than 24 hours,Yes,2?5km,Three times,No
+7,Female,Mayanga,Primary,Yes,Asthma,No,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+7,Female,Mayanga,Primary,Yes,Asthma,No,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+7,Female,Mayanga,Primary,Yes,Asthma,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+8,Female,Mitooma TC,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+8,Female,Mitooma TC,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+9,Female,Kashenshero TC,Secondary,Yes,HIV_AIDS,No,Yes,Accident,Other,Yes,Seizures,More than 5 days,No,Less than 2km,Twice,No
+9,Female,Kashenshero TC,Secondary,Yes,HIV_AIDS,No,Yes,Accident,Measles,Yes,Seizures,More than 5 days,No,Less than 2km,Twice,No
+9,Female,Kashenshero TC,Secondary,Yes,HIV_AIDS,No,Yes,Accident,BCG,Yes,Seizures,More than 5 days,No,Less than 2km,Twice,No
+6,Female,Kashenshero,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Once,No
+6,Female,Kashenshero,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+6,Female,Kashenshero,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,No
+8,Male,Katenga,Secondary,Yes,Sickle Cell,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Male,Katenga,Secondary,Yes,Sickle Cell,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+3,Female,Kashenshero TC,Below Primary,Yes,Asthma,No,No,Normal,Other,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,Yes
+3,Female,Kashenshero TC,Below Primary,Yes,Asthma,No,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,Yes
+3,Female,Kashenshero TC,Below Primary,Yes,Asthma,No,No,Normal,DPT,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,Yes
+3,Female,Kashenshero TC,Below Primary,Yes,Asthma,No,No,Normal,Polio,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,Yes
+6,Female,Kiyanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+6,Female,Kiyanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+6,Female,Kiyanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+11,Female,Kashenshero TC,Primary,Yes,HIV_AIDS,Yes,Yes,Infection,Polio,Yes,Fever,1 to 2 days,Yes,Less than 2km,Three times,Yes
+9,Male,Rurehe,Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,Yes,Vomiting,1 to 2 days,No,2?5km,Once,No
+9,Male,Rurehe,Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Vomiting,1 to 2 days,No,2?5km,Once,No
+9,Male,Rurehe,Primary,Yes,Sickle Cell,Yes,No,Normal,Polio,Yes,Vomiting,1 to 2 days,No,2?5km,Once,No
+3,Male,Bitereko,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,No,2?5km,Once,Yes
+4,Female,Katenga,Below Primary,Yes,HIV_AIDS,No,Yes,Accident,DPT,Yes,Swelling,3 to 5 days,No,Less than 2km,Rarely,Yes
+9,Male,Kiyanga,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+9,Male,Kiyanga,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+10,Female,Mitooma TC,Primary,Yes,Sickle Cell,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+10,Female,Mitooma TC,Primary,Yes,Sickle Cell,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+5,Female,Mayanga,Below Primary,Yes,Sickle Cell,No,Yes,Infection,Measles,Yes,Rash,More than 5 days,Yes,More than 5km,Once,Yes
+5,Female,Mayanga,Below Primary,Yes,Sickle Cell,No,Yes,Infection,Other,Yes,Rash,More than 5 days,Yes,More than 5km,Once,Yes
+5,Female,Mayanga,Below Primary,Yes,Sickle Cell,No,Yes,Infection,BCG,Yes,Rash,More than 5 days,Yes,More than 5km,Once,Yes
+5,Female,Mayanga,Below Primary,Yes,Sickle Cell,No,Yes,Infection,Polio,Yes,Rash,More than 5 days,Yes,More than 5km,Once,Yes
+9,Male,Kashenshero,Primary,Yes,Asthma,No,Yes,Malaria,Other,Yes,Swelling,More than 5 days,Yes,Less than 2km,Once,Yes
+12,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,Other,Yes,Swelling,1 to 2 days,Yes,2?5km,Rarely,Yes
+12,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,Polio,Yes,Swelling,1 to 2 days,Yes,2?5km,Rarely,Yes
+12,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,Measles,Yes,Swelling,1 to 2 days,Yes,2?5km,Rarely,Yes
+4,Male,Rutookye TC,Below Primary,No,Normal,Yes,No,Normal,Other,Yes,Fever,Less than 24 hours,Yes,Less than 2km,Three times,No
+4,Male,Rutookye TC,Below Primary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,Less than 24 hours,Yes,Less than 2km,Three times,No
+10,Female,Mayanga,Tertiary,Yes,Heart Disease,No,No,Normal,Polio,Yes,Fever,More than 5 days,No,2?5km,Rarely,No
+10,Female,Mayanga,Tertiary,Yes,Heart Disease,No,No,Normal,BCG,Yes,Fever,More than 5 days,No,2?5km,Rarely,No
+10,Female,Mayanga,Tertiary,Yes,Heart Disease,No,No,Normal,DPT,Yes,Fever,More than 5 days,No,2?5km,Rarely,No
+10,Female,Mayanga,Tertiary,Yes,Heart Disease,No,No,Normal,Measles,Yes,Fever,More than 5 days,No,2?5km,Rarely,No
+12,Female,Katenga,Tertiary,Yes,Asthma,No,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Male,Mayanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+6,Male,Mayanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+7,Male,Mayanga,Secondary,Yes,Sickle Cell,No,Yes,Infection,Polio,Yes,Other,More than 5 days,Yes,Less than 2km,Twice,No
+7,Male,Mayanga,Secondary,Yes,Sickle Cell,No,Yes,Infection,BCG,Yes,Other,More than 5 days,Yes,Less than 2km,Twice,No
+7,Male,Mayanga,Secondary,Yes,Sickle Cell,No,Yes,Infection,Other,Yes,Other,More than 5 days,Yes,Less than 2km,Twice,No
+4,Male,Rutookye TC,Below Primary,Yes,Asthma,Yes,Yes,Accident,Other,Yes,Vomiting,More than 5 days,No,More than 5km,Rarely,No
+11,Female,Kanyabwanga,Primary,No,Normal,No,No,Normal,Measles,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+11,Female,Kanyabwanga,Primary,No,Normal,No,No,Normal,Polio,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+11,Female,Kanyabwanga,Primary,No,Normal,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+11,Female,Kanyabwanga,Primary,No,Normal,No,No,Normal,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+6,Male,Rutookye TC,Below Primary,Yes,Heart Disease,No,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,Less than 2km,Once,No
+6,Male,Rutookye TC,Below Primary,Yes,Heart Disease,No,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,No,Less than 2km,Once,No
+6,Female,Kabira,Secondary,No,Normal,Yes,Yes,Other,DPT,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+6,Female,Kabira,Secondary,No,Normal,Yes,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+6,Female,Kabira,Secondary,No,Normal,Yes,Yes,Other,Measles,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+6,Female,Kabira,Secondary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+6,Male,Kabira,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+6,Male,Kabira,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+2,Female,Kanyabwanga,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+2,Female,Kanyabwanga,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Mayanga,Primary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Seizures,More than 5 days,Yes,Less than 2km,Twice,Yes
+12,Female,Mayanga,Primary,Yes,Asthma,Yes,No,Normal,Other,Yes,Seizures,More than 5 days,Yes,Less than 2km,Twice,Yes
+12,Female,Mayanga,Primary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,Less than 2km,Twice,Yes
+12,Female,Mayanga,Primary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Seizures,More than 5 days,Yes,Less than 2km,Twice,Yes
+10,Male,Kanyabwanga,Below Primary,Yes,Other,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+7,Female,Bitereko,Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+7,Female,Bitereko,Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Once,No
+8,Female,Kashenshero,Primary,No,Normal,No,No,Normal,DPT,Yes,Swelling,More than 5 days,No,More than 5km,Once,Yes
+8,Female,Kashenshero,Primary,No,Normal,No,No,Normal,BCG,Yes,Swelling,More than 5 days,No,More than 5km,Once,Yes
+11,Female,Mayanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,DPT,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+11,Female,Mayanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,Measles,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+11,Female,Mayanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,Other,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+11,Female,Mayanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,Polio,Yes,Fever,1 to 2 days,No,Less than 2km,Three times,Yes
+3,Male,Mitooma TC,Primary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Swelling,1 to 2 days,Yes,2?5km,Once,No
+11,Male,Kabira,Tertiary,Yes,Sickle Cell,No,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Polio,Yes,Swelling,1 to 2 days,No,2?5km,Twice,No
+1,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Measles,Yes,Swelling,1 to 2 days,No,2?5km,Twice,No
+1,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Other,Yes,Swelling,1 to 2 days,No,2?5km,Twice,No
+9,Female,Rurehe,Secondary,No,Normal,No,Yes,Malaria,Measles,Yes,Other,Less than 24 hours,Yes,More than 5km,Rarely,No
+9,Female,Rurehe,Secondary,No,Normal,No,Yes,Malaria,Other,Yes,Other,Less than 24 hours,Yes,More than 5km,Rarely,No
+1,Female,Mitooma,Secondary,No,Normal,Yes,No,Normal,Other,Yes,Vomiting,1 to 2 days,Yes,More than 5km,Rarely,Yes
+6,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+10,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Once,No
+10,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+10,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Once,No
+9,Male,Mayanga,Tertiary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+9,Male,Mayanga,Tertiary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+9,Male,Mayanga,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+2,Male,Mitooma,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Male,Mitooma,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Male,Mitooma,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Male,Mitooma,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Rurehe,Below Primary,Yes,Sickle Cell,No,No,Normal,Measles,Yes,Seizures,Less than 24 hours,No,Less than 2km,Rarely,Yes
+2,Female,Rurehe,Below Primary,Yes,Sickle Cell,No,No,Normal,Polio,Yes,Seizures,Less than 24 hours,No,Less than 2km,Rarely,Yes
+2,Female,Rurehe,Below Primary,Yes,Sickle Cell,No,No,Normal,DPT,Yes,Seizures,Less than 24 hours,No,Less than 2km,Rarely,Yes
+2,Female,Rurehe,Below Primary,Yes,Sickle Cell,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,Less than 2km,Rarely,Yes
+1,Female,Rutookye TC,Primary,No,Normal,Yes,Yes,Accident,Other,Yes,Swelling,More than 5 days,No,More than 5km,Rarely,No
+3,Female,Kiyanga,Primary,No,Normal,Yes,Yes,Accident,Other,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Female,Kiyanga,Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Female,Kiyanga,Primary,No,Normal,Yes,Yes,Accident,Measles,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+3,Female,Kiyanga,Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Rarely,Yes
+1,Female,Bitereko,Secondary,No,Normal,No,Yes,Malaria,Other,Yes,Vomiting,3 to 5 days,No,More than 5km,Once,Yes
+1,Female,Bitereko,Secondary,No,Normal,No,Yes,Malaria,DPT,Yes,Vomiting,3 to 5 days,No,More than 5km,Once,Yes
+2,Female,Kiyanga,Secondary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+11,Male,Bitereko,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Measles,Yes,Seizures,1 to 2 days,Yes,2?5km,Once,Yes
+9,Male,Kashenshero,Tertiary,Yes,Other,No,Yes,Other,Other,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+9,Male,Kashenshero,Tertiary,Yes,Other,No,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+9,Male,Kashenshero,Tertiary,Yes,Other,No,Yes,Other,Measles,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+9,Male,Kashenshero,Tertiary,Yes,Other,No,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+6,Female,Mitooma,Secondary,Yes,Asthma,Yes,No,Normal,Measles,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+6,Female,Mitooma,Secondary,Yes,Asthma,Yes,No,Normal,Other,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+6,Female,Mitooma,Secondary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+6,Female,Mitooma,Secondary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,No,Less than 2km,Rarely,No
+1,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+1,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+1,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Female,Kabira,Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+11,Female,Kabira,Primary,No,Normal,Yes,Yes,Accident,Measles,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+11,Female,Kabira,Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+11,Female,Kabira,Primary,No,Normal,Yes,Yes,Accident,Other,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+6,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Kabira,Tertiary,Yes,Asthma,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Male,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+8,Male,Mitooma TC,Tertiary,Yes,Other,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Once,No
+12,Female,Mitooma,Primary,No,Normal,Yes,No,Normal,Other,Yes,Other,1 to 2 days,No,More than 5km,Rarely,Yes
+12,Female,Mitooma,Primary,No,Normal,Yes,No,Normal,Measles,Yes,Other,1 to 2 days,No,More than 5km,Rarely,Yes
+12,Female,Mitooma,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Other,1 to 2 days,No,More than 5km,Rarely,Yes
+3,Male,Mitooma,Secondary,Yes,Heart Disease,Yes,No,Normal,Other,Yes,Fever,More than 5 days,Yes,More than 5km,Once,No
+3,Male,Mitooma,Secondary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Fever,More than 5 days,Yes,More than 5km,Once,No
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,Yes,2?5km,Once,Yes
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,2?5km,Once,Yes
+6,Male,Rutookye TC,Primary,Yes,Other,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+6,Male,Rutookye TC,Primary,Yes,Other,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+6,Male,Rutookye TC,Primary,Yes,Other,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+6,Male,Rutookye TC,Primary,Yes,Other,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Female,Rutookye TC,Primary,No,Normal,No,No,Normal,Other,Yes,Vomiting,More than 5 days,Yes,Less than 2km,Three times,Yes
+5,Female,Kashenshero TC,Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+5,Female,Kashenshero TC,Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+1,Female,Kashenshero,Below Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+11,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Polio,Yes,Rash,Less than 24 hours,No,Less than 2km,Rarely,Yes
+11,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Rash,Less than 24 hours,No,Less than 2km,Rarely,Yes
+11,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Rash,Less than 24 hours,No,Less than 2km,Rarely,Yes
+9,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,Yes
+9,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,Measles,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,Yes
+11,Male,Mitooma,Primary,No,Normal,No,No,Normal,Polio,Yes,Seizures,More than 5 days,Yes,Less than 2km,Rarely,No
+11,Male,Mitooma,Primary,No,Normal,No,No,Normal,Measles,Yes,Seizures,More than 5 days,Yes,Less than 2km,Rarely,No
+4,Female,Kabira,Below Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,More than 5km,Rarely,No
+4,Female,Kabira,Below Primary,Yes,Other,Yes,No,Normal,Other,Yes,Swelling,More than 5 days,No,More than 5km,Rarely,No
+10,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+10,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,No,Normal,Measles,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+10,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,Yes
+3,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Once,No
+3,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Once,No
+3,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Once,No
+3,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+12,Female,Mitooma TC,Below Primary,No,Normal,Yes,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Once,No
+7,Male,Mayanga,Tertiary,Yes,Other,Yes,No,Normal,Other,Yes,Vomiting,1 to 2 days,No,2?5km,Rarely,Yes
+7,Male,Mayanga,Tertiary,Yes,Other,Yes,No,Normal,DPT,Yes,Vomiting,1 to 2 days,No,2?5km,Rarely,Yes
+1,Female,Mayanga,Secondary,Yes,Other,No,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+1,Female,Mayanga,Secondary,Yes,Other,No,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+1,Female,Mayanga,Secondary,Yes,Other,No,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+1,Female,Mayanga,Secondary,Yes,Other,No,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+9,Female,Kiyanga,Primary,Yes,Sickle Cell,No,No,Normal,BCG,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+9,Female,Kiyanga,Primary,Yes,Sickle Cell,No,No,Normal,Measles,Yes,Seizures,More than 5 days,No,2?5km,Twice,Yes
+6,Female,Kiyanga,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+6,Female,Kiyanga,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+8,Female,Mutara,Tertiary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+8,Female,Mutara,Tertiary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+6,Male,Kiyanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Male,Kiyanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Male,Kiyanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Male,Kiyanga,Below Primary,Yes,HIV_AIDS,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Mitooma,Tertiary,No,Normal,No,Yes,Accident,Other,Yes,Rash,3 to 5 days,Yes,Less than 2km,Once,Yes
+12,Female,Mitooma,Tertiary,No,Normal,No,Yes,Accident,Measles,Yes,Rash,3 to 5 days,Yes,Less than 2km,Once,Yes
+12,Female,Mitooma,Tertiary,No,Normal,No,Yes,Accident,DPT,Yes,Rash,3 to 5 days,Yes,Less than 2km,Once,Yes
+12,Female,Mitooma,Tertiary,No,Normal,No,Yes,Accident,Polio,Yes,Rash,3 to 5 days,Yes,Less than 2km,Once,Yes
+8,Male,Kashenshero TC,Tertiary,No,Normal,No,Yes,Other,Other,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+8,Male,Kashenshero TC,Tertiary,No,Normal,No,Yes,Other,DPT,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+8,Male,Kashenshero TC,Tertiary,No,Normal,No,Yes,Other,Measles,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+4,Male,Kashenshero,Tertiary,Yes,Heart Disease,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+4,Female,Kabira,Secondary,Yes,Other,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+4,Female,Kabira,Secondary,Yes,Other,No,Yes,Malaria,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+4,Female,Kabira,Secondary,Yes,Other,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,No
+4,Female,Kabira,Secondary,Yes,Other,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Kiyanga,Tertiary,No,Normal,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Kiyanga,Tertiary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Kiyanga,Tertiary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Kiyanga,Tertiary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+1,Female,Mitooma TC,Below Primary,Yes,Other,No,Yes,Other,DPT,Yes,Fever,1 to 2 days,Yes,2?5km,Rarely,No
+1,Female,Mitooma TC,Below Primary,Yes,Other,No,Yes,Other,Other,Yes,Fever,1 to 2 days,Yes,2?5km,Rarely,No
+2,Male,Mitooma TC,Secondary,No,Normal,No,No,Normal,Other,Yes,Fever,More than 5 days,Yes,Less than 2km,Three times,No
+2,Male,Mitooma TC,Secondary,No,Normal,No,No,Normal,Measles,Yes,Fever,More than 5 days,Yes,Less than 2km,Three times,No
+2,Male,Mitooma TC,Secondary,No,Normal,No,No,Normal,BCG,Yes,Fever,More than 5 days,Yes,Less than 2km,Three times,No
+5,Male,Kashenshero TC,Primary,Yes,Other,Yes,No,Normal,Measles,Yes,Swelling,1 to 2 days,No,2?5km,Once,No
+5,Male,Kashenshero TC,Primary,Yes,Other,Yes,No,Normal,Other,Yes,Swelling,1 to 2 days,No,2?5km,Once,No
+2,Female,Mitooma TC,Primary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Seizures,More than 5 days,Yes,2?5km,Once,Yes
+2,Female,Mitooma TC,Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Seizures,More than 5 days,Yes,2?5km,Once,Yes
+2,Female,Mitooma TC,Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,2?5km,Once,Yes
+12,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+12,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+12,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+2,Female,Kashenshero TC,Primary,Yes,Other,Yes,No,Normal,Measles,Yes,Rash,Less than 24 hours,Yes,2?5km,Once,Yes
+2,Female,Kashenshero TC,Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Rash,Less than 24 hours,Yes,2?5km,Once,Yes
+11,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Other,Measles,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+11,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+11,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Other,DPT,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+11,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+3,Male,Rurehe,Secondary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+3,Male,Rurehe,Secondary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Female,Rutookye TC,Secondary,Yes,Other,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+5,Female,Rutookye TC,Secondary,Yes,Other,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+5,Female,Rutookye TC,Secondary,Yes,Other,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+9,Male,Bitereko,Primary,No,Normal,No,Yes,Accident,Polio,Yes,Fever,More than 5 days,Yes,Less than 2km,Once,Yes
+9,Male,Bitereko,Primary,No,Normal,No,Yes,Accident,DPT,Yes,Fever,More than 5 days,Yes,Less than 2km,Once,Yes
+9,Male,Bitereko,Primary,No,Normal,No,Yes,Accident,Other,Yes,Fever,More than 5 days,Yes,Less than 2km,Once,Yes
+9,Male,Bitereko,Primary,No,Normal,No,Yes,Accident,Measles,Yes,Fever,More than 5 days,Yes,Less than 2km,Once,Yes
+8,Male,Katenga,Below Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+6,Male,Mutara,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+6,Male,Mutara,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+11,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+8,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Female,Rurehe,Secondary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+7,Male,Mitooma TC,Tertiary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+7,Male,Mitooma TC,Tertiary,Yes,Asthma,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+9,Female,Kashenshero TC,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+3,Male,Kashenshero TC,Primary,Yes,Sickle Cell,Yes,Yes,Malaria,BCG,Yes,Swelling,3 to 5 days,No,Less than 2km,Three times,No
+6,Male,Mitooma,Tertiary,Yes,Asthma,No,Yes,Infection,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+6,Male,Mitooma,Tertiary,Yes,Asthma,No,Yes,Infection,Measles,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+6,Male,Mitooma,Tertiary,Yes,Asthma,No,Yes,Infection,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+6,Male,Mitooma,Tertiary,Yes,Asthma,No,Yes,Infection,Polio,Yes,Seizures,Less than 24 hours,No,2?5km,Three times,No
+5,Male,Mitooma,Secondary,Yes,Sickle Cell,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Mitooma,Secondary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Mitooma,Secondary,Yes,Sickle Cell,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+1,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+1,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+1,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+1,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+11,Female,Rurehe,Secondary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+11,Female,Rurehe,Secondary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+8,Male,Kashenshero TC,Primary,Yes,Heart Disease,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,Less than 2km,Once,No
+1,Female,Mitooma TC,Tertiary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+1,Female,Mitooma TC,Tertiary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Once,No
+11,Female,Mayanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+11,Female,Mayanga,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+2,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+2,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+2,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+2,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+4,Female,Bitereko,Below Primary,Yes,Heart Disease,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,More than 5km,Three times,No
+4,Female,Bitereko,Below Primary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Swelling,More than 5 days,No,More than 5km,Three times,No
+4,Female,Bitereko,Below Primary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Swelling,More than 5 days,No,More than 5km,Three times,No
+4,Female,Bitereko,Below Primary,Yes,Heart Disease,Yes,No,Normal,Other,Yes,Swelling,More than 5 days,No,More than 5km,Three times,No
+7,Female,Mutara,Primary,Yes,Other,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Once,No
+7,Female,Mutara,Primary,Yes,Other,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Once,No
+7,Female,Mutara,Primary,Yes,Other,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Once,No
+7,Female,Mutara,Primary,Yes,Other,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+8,Male,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Infection,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+8,Male,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+8,Male,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Infection,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+12,Female,Rurehe,Primary,Yes,Other,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+12,Female,Kashenshero TC,Below Primary,Yes,Other,Yes,Yes,Other,Other,Yes,Swelling,Less than 24 hours,No,2?5km,Once,Yes
+12,Female,Kashenshero TC,Below Primary,Yes,Other,Yes,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,2?5km,Once,Yes
+12,Female,Kashenshero TC,Below Primary,Yes,Other,Yes,Yes,Other,DPT,Yes,Swelling,Less than 24 hours,No,2?5km,Once,Yes
+12,Female,Kashenshero TC,Below Primary,Yes,Other,Yes,Yes,Other,Measles,Yes,Swelling,Less than 24 hours,No,2?5km,Once,Yes
+2,Female,Kiyanga,Secondary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Once,No
+2,Female,Kiyanga,Secondary,No,Normal,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Once,No
+2,Female,Kiyanga,Secondary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Once,No
+5,Male,Kabira,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+8,Male,Mitooma TC,Secondary,No,Normal,Yes,Yes,Infection,DPT,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,No
+8,Male,Mitooma TC,Secondary,No,Normal,Yes,Yes,Infection,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,No
+12,Male,Mitooma TC,Tertiary,Yes,Heart Disease,No,Yes,Accident,Other,Yes,Other,More than 5 days,No,2?5km,Rarely,No
+12,Male,Mitooma TC,Tertiary,Yes,Heart Disease,No,Yes,Accident,Polio,Yes,Other,More than 5 days,No,2?5km,Rarely,No
+12,Male,Mitooma TC,Tertiary,Yes,Heart Disease,No,Yes,Accident,DPT,Yes,Other,More than 5 days,No,2?5km,Rarely,No
+4,Male,Mitooma TC,Primary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+6,Female,Rurehe,Secondary,Yes,Sickle Cell,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Female,Rurehe,Secondary,Yes,Sickle Cell,No,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Female,Rurehe,Secondary,Yes,Sickle Cell,No,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Female,Rurehe,Secondary,Yes,Sickle Cell,No,Yes,Infection,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+7,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,DPT,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+7,Male,Kashenshero TC,Secondary,No,Normal,No,No,Normal,Polio,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+7,Male,Kiyanga,Below Primary,No,Normal,No,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+7,Male,Kiyanga,Below Primary,No,Normal,No,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+7,Male,Bitereko,Tertiary,Yes,Other,No,No,Normal,Polio,Yes,Vomiting,3 to 5 days,No,2?5km,Once,Yes
+7,Male,Bitereko,Tertiary,Yes,Other,No,No,Normal,BCG,Yes,Vomiting,3 to 5 days,No,2?5km,Once,Yes
+7,Male,Bitereko,Tertiary,Yes,Other,No,No,Normal,Measles,Yes,Vomiting,3 to 5 days,No,2?5km,Once,Yes
+12,Male,Mayanga,Primary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Male,Mayanga,Primary,No,Normal,No,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Male,Mayanga,Primary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+1,Female,Kanyabwanga,Secondary,No,Normal,Yes,No,Normal,BCG,Yes,Vomiting,More than 5 days,No,2?5km,Once,No
+1,Female,Kanyabwanga,Secondary,No,Normal,Yes,No,Normal,Other,Yes,Vomiting,More than 5 days,No,2?5km,Once,No
+2,Male,Kashenshero TC,Secondary,Yes,Heart Disease,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Male,Kashenshero TC,Secondary,Yes,Heart Disease,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Male,Kashenshero TC,Secondary,Yes,Heart Disease,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+10,Female,Rutookye TC,Secondary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Female,Rutookye TC,Secondary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Female,Rutookye TC,Secondary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Female,Rutookye TC,Secondary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Male,Mitooma TC,Secondary,Yes,Asthma,No,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,2?5km,Once,Yes
+6,Male,Mitooma TC,Secondary,Yes,Asthma,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,No,2?5km,Once,Yes
+8,Female,Rurehe,Below Primary,Yes,Other,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Rurehe,Below Primary,Yes,Other,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Rurehe,Below Primary,Yes,Other,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+8,Female,Rurehe,Below Primary,Yes,Other,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+1,Female,Katenga,Below Primary,Yes,Sickle Cell,No,No,Normal,Other,Yes,Other,More than 5 days,No,Less than 2km,Three times,No
+12,Male,Rurehe,Primary,Yes,Asthma,No,No,Normal,DPT,Yes,Rash,1 to 2 days,Yes,Less than 2km,Three times,No
+12,Male,Rurehe,Primary,Yes,Asthma,No,No,Normal,Measles,Yes,Rash,1 to 2 days,Yes,Less than 2km,Three times,No
+12,Male,Rurehe,Primary,Yes,Asthma,No,No,Normal,Other,Yes,Rash,1 to 2 days,Yes,Less than 2km,Three times,No
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+2,Female,Kabira,Below Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,No
+11,Male,Rutookye TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Male,Rutookye TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Male,Rutookye TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Male,Rutookye TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Male,Katenga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+11,Male,Katenga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Male,Mutara,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Once,No
+6,Male,Mutara,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,No
+10,Female,Rutookye TC,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+10,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,Measles,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+10,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,Polio,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+10,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,DPT,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+2,Female,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Rutookye TC,Tertiary,No,Normal,No,Yes,Other,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+6,Male,Mayanga,Below Primary,No,Normal,No,Yes,Accident,Polio,Yes,Swelling,Less than 24 hours,No,2?5km,Rarely,Yes
+2,Female,Mitooma,Primary,No,Normal,No,No,Normal,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+7,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+7,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+2,Male,Bitereko,Tertiary,No,Normal,Yes,Yes,Infection,BCG,Yes,Fever,1 to 2 days,Yes,More than 5km,Once,Yes
+8,Male,Mitooma TC,Primary,Yes,Heart Disease,No,Yes,Other,Other,Yes,Vomiting,1 to 2 days,No,More than 5km,Twice,No
+8,Male,Mitooma TC,Primary,Yes,Heart Disease,No,Yes,Other,BCG,Yes,Vomiting,1 to 2 days,No,More than 5km,Twice,No
+8,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,No,Normal,BCG,Yes,Other,3 to 5 days,No,2?5km,Rarely,No
+8,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,No,Normal,Other,Yes,Other,3 to 5 days,No,2?5km,Rarely,No
+8,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,No,Normal,Measles,Yes,Other,3 to 5 days,No,2?5km,Rarely,No
+8,Female,Kashenshero TC,Tertiary,Yes,Asthma,No,No,Normal,DPT,Yes,Other,3 to 5 days,No,2?5km,Rarely,No
+7,Female,Katenga,Primary,Yes,HIV_AIDS,No,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Female,Katenga,Primary,Yes,HIV_AIDS,No,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Female,Katenga,Primary,Yes,HIV_AIDS,No,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Female,Katenga,Primary,Yes,HIV_AIDS,No,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+11,Female,Kanyabwanga,Tertiary,Yes,Sickle Cell,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Female,Kiyanga,Tertiary,Yes,Sickle Cell,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+10,Female,Mayanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+1,Male,Mayanga,Primary,No,Normal,No,Yes,Other,Measles,Yes,Seizures,More than 5 days,No,More than 5km,Twice,No
+1,Male,Mayanga,Primary,No,Normal,No,Yes,Other,Polio,Yes,Seizures,More than 5 days,No,More than 5km,Twice,No
+1,Male,Mayanga,Primary,No,Normal,No,Yes,Other,DPT,Yes,Seizures,More than 5 days,No,More than 5km,Twice,No
+1,Male,Mayanga,Primary,No,Normal,No,Yes,Other,BCG,Yes,Seizures,More than 5 days,No,More than 5km,Twice,No
+7,Male,Rutookye TC,Tertiary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Vomiting,More than 5 days,No,Less than 2km,Three times,Yes
+7,Male,Rutookye TC,Tertiary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Vomiting,More than 5 days,No,Less than 2km,Three times,Yes
+8,Female,Mayanga,Tertiary,Yes,Asthma,Yes,Yes,Accident,BCG,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+8,Female,Mayanga,Tertiary,Yes,Asthma,Yes,Yes,Accident,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+8,Female,Mayanga,Tertiary,Yes,Asthma,Yes,Yes,Accident,Measles,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+8,Female,Mayanga,Tertiary,Yes,Asthma,Yes,Yes,Accident,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Once,No
+4,Female,Rutookye TC,Tertiary,Yes,Heart Disease,No,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Female,Kabira,Primary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,3 to 5 days,No,More than 5km,Three times,No
+2,Female,Kabira,Primary,No,Normal,Yes,Yes,Other,Other,Yes,Swelling,3 to 5 days,No,More than 5km,Three times,No
+4,Male,Rurehe,Secondary,Yes,Heart Disease,No,No,Normal,Other,Yes,Seizures,3 to 5 days,Yes,More than 5km,Three times,No
+4,Male,Rurehe,Secondary,Yes,Heart Disease,No,No,Normal,Measles,Yes,Seizures,3 to 5 days,Yes,More than 5km,Three times,No
+4,Male,Rurehe,Secondary,Yes,Heart Disease,No,No,Normal,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Three times,No
+1,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Twice,No
+10,Female,Kashenshero TC,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Vomiting,Less than 24 hours,Yes,2?5km,Once,No
+10,Female,Kanyabwanga,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,Measles,Yes,Rash,Less than 24 hours,Yes,Less than 2km,Once,No
+11,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+11,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Once,Yes
+11,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+8,Male,Mitooma TC,Below Primary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+6,Male,Kashenshero TC,Tertiary,Yes,Heart Disease,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+11,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,Yes,Accident,DPT,Yes,Other,3 to 5 days,No,2?5km,Twice,Yes
+11,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,Yes,Accident,Other,Yes,Other,3 to 5 days,No,2?5km,Twice,Yes
+11,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,Yes,Accident,Measles,Yes,Other,3 to 5 days,No,2?5km,Twice,Yes
+4,Male,Mitooma TC,Below Primary,Yes,Other,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Male,Mitooma TC,Below Primary,Yes,Other,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Male,Mitooma TC,Below Primary,Yes,Other,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+9,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,Yes,Accident,Other,Yes,Fever,Less than 24 hours,Yes,More than 5km,Three times,No
+9,Female,Mayanga,Primary,No,Normal,No,No,Normal,DPT,Yes,Rash,1 to 2 days,Yes,More than 5km,Twice,No
+9,Female,Mayanga,Primary,No,Normal,No,No,Normal,Measles,Yes,Rash,1 to 2 days,Yes,More than 5km,Twice,No
+9,Female,Mayanga,Primary,No,Normal,No,No,Normal,BCG,Yes,Rash,1 to 2 days,Yes,More than 5km,Twice,No
+1,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+1,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+1,Female,Mitooma,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+12,Male,Mitooma TC,Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Male,Mayanga,Below Primary,No,Normal,No,No,Normal,BCG,Yes,Fever,Less than 24 hours,No,Less than 2km,Three times,No
+12,Male,Mayanga,Below Primary,No,Normal,No,No,Normal,DPT,Yes,Fever,Less than 24 hours,No,Less than 2km,Three times,No
+1,Male,Kiyanga,Secondary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+1,Male,Kiyanga,Secondary,Yes,Sickle Cell,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+6,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,No,Normal,BCG,Yes,Other,Less than 24 hours,No,Less than 2km,Once,No
+6,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Other,Less than 24 hours,No,Less than 2km,Once,No
+6,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,No,Normal,Polio,Yes,Other,Less than 24 hours,No,Less than 2km,Once,No
+8,Male,Mutara,Below Primary,Yes,HIV_AIDS,No,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+8,Male,Mutara,Below Primary,Yes,HIV_AIDS,No,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,Less than 2km,Three times,No
+8,Male,Kabira,Secondary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Male,Kabira,Secondary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Male,Kabira,Secondary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+4,Male,Rurehe,Below Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Twice,No
+6,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Malaria,Other,Yes,Seizures,More than 5 days,Yes,2?5km,Twice,No
+6,Female,Mayanga,Below Primary,Yes,HIV_AIDS,No,Yes,Malaria,Measles,Yes,Seizures,More than 5 days,Yes,2?5km,Twice,No
+12,Male,Kiyanga,Below Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Seizures,Less than 24 hours,No,2?5km,Once,Yes
+12,Male,Kiyanga,Below Primary,No,Normal,Yes,Yes,Accident,Other,Yes,Seizures,Less than 24 hours,No,2?5km,Once,Yes
+12,Male,Kiyanga,Below Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Once,Yes
+5,Female,Kashenshero TC,Primary,Yes,Other,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+5,Female,Kashenshero TC,Primary,Yes,Other,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+5,Female,Kashenshero TC,Primary,Yes,Other,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+5,Female,Kashenshero TC,Primary,Yes,Other,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Female,Mutara,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Female,Mutara,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+11,Female,Mitooma TC,Tertiary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+11,Male,Kashenshero TC,Below Primary,Yes,Asthma,Yes,Yes,Infection,BCG,Yes,Fever,1 to 2 days,Yes,More than 5km,Twice,Yes
+11,Male,Kashenshero TC,Below Primary,Yes,Asthma,Yes,Yes,Infection,Other,Yes,Fever,1 to 2 days,Yes,More than 5km,Twice,Yes
+11,Male,Kashenshero TC,Below Primary,Yes,Asthma,Yes,Yes,Infection,DPT,Yes,Fever,1 to 2 days,Yes,More than 5km,Twice,Yes
+11,Male,Kashenshero TC,Below Primary,Yes,Asthma,Yes,Yes,Infection,Polio,Yes,Fever,1 to 2 days,Yes,More than 5km,Twice,Yes
+4,Male,Kabira,Below Primary,No,Normal,No,Yes,Accident,Polio,Yes,Swelling,3 to 5 days,No,More than 5km,Once,No
+4,Male,Kabira,Below Primary,No,Normal,No,Yes,Accident,DPT,Yes,Swelling,3 to 5 days,No,More than 5km,Once,No
+3,Female,Kanyabwanga,Below Primary,No,Normal,No,Yes,Accident,BCG,Yes,Vomiting,Less than 24 hours,Yes,More than 5km,Once,Yes
+3,Female,Kanyabwanga,Below Primary,No,Normal,No,Yes,Accident,Polio,Yes,Vomiting,Less than 24 hours,Yes,More than 5km,Once,Yes
+3,Female,Kanyabwanga,Below Primary,No,Normal,No,Yes,Accident,DPT,Yes,Vomiting,Less than 24 hours,Yes,More than 5km,Once,Yes
+3,Female,Kanyabwanga,Below Primary,No,Normal,No,Yes,Accident,Other,Yes,Vomiting,Less than 24 hours,Yes,More than 5km,Once,Yes
+2,Female,Kashenshero TC,Primary,No,Normal,No,Yes,Other,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+12,Female,Rutookye TC,Primary,Yes,Asthma,No,No,Normal,DPT,Yes,Other,3 to 5 days,Yes,More than 5km,Three times,No
+12,Female,Rutookye TC,Primary,Yes,Asthma,No,No,Normal,Measles,Yes,Other,3 to 5 days,Yes,More than 5km,Three times,No
+12,Female,Rutookye TC,Primary,Yes,Asthma,No,No,Normal,BCG,Yes,Other,3 to 5 days,Yes,More than 5km,Three times,No
+12,Male,Mayanga,Primary,Yes,HIV_AIDS,No,Yes,Infection,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Male,Mayanga,Primary,Yes,HIV_AIDS,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+2,Male,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Other,BCG,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+2,Male,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Other,Measles,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+2,Male,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Other,Polio,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+2,Male,Bitereko,Primary,Yes,Sickle Cell,Yes,Yes,Other,Other,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+11,Female,Mitooma,Below Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,More than 5km,Rarely,No
+11,Female,Mitooma,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Seizures,3 to 5 days,No,More than 5km,Rarely,No
+9,Female,Mayanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,Yes,Heart Disease,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+7,Female,Mutara,Below Primary,Yes,Asthma,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+7,Female,Mutara,Below Primary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+7,Female,Mutara,Below Primary,Yes,Asthma,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Female,Mayanga,Tertiary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+4,Female,Mayanga,Tertiary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+4,Female,Mayanga,Tertiary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Female,Mitooma,Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Rarely,No
+2,Female,Mitooma,Primary,No,Normal,Yes,Yes,Accident,Measles,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Rarely,No
+2,Female,Mitooma,Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Rarely,No
+7,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,Other,Yes,Fever,More than 5 days,Yes,Less than 2km,Rarely,No
+7,Female,Rurehe,Tertiary,Yes,Heart Disease,No,No,Normal,DPT,Yes,Fever,More than 5 days,Yes,Less than 2km,Rarely,No
+10,Male,Kiyanga,Primary,Yes,Heart Disease,Yes,Yes,Accident,Measles,Yes,Fever,More than 5 days,No,Less than 2km,Rarely,No
+10,Male,Kiyanga,Primary,Yes,Heart Disease,Yes,Yes,Accident,Polio,Yes,Fever,More than 5 days,No,Less than 2km,Rarely,No
+10,Male,Kiyanga,Primary,Yes,Heart Disease,Yes,Yes,Accident,Other,Yes,Fever,More than 5 days,No,Less than 2km,Rarely,No
+10,Male,Kiyanga,Primary,Yes,Heart Disease,Yes,Yes,Accident,DPT,Yes,Fever,More than 5 days,No,Less than 2km,Rarely,No
+5,Male,Kanyabwanga,Tertiary,Yes,Other,No,No,Normal,Polio,Yes,Fever,1 to 2 days,No,2?5km,Twice,No
+5,Male,Kanyabwanga,Tertiary,Yes,Other,No,No,Normal,Measles,Yes,Fever,1 to 2 days,No,2?5km,Twice,No
+5,Male,Kanyabwanga,Tertiary,Yes,Other,No,No,Normal,DPT,Yes,Fever,1 to 2 days,No,2?5km,Twice,No
+8,Male,Kiyanga,Below Primary,Yes,Asthma,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+12,Female,Mayanga,Secondary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Vomiting,3 to 5 days,No,2?5km,Three times,No
+4,Male,Kabira,Below Primary,No,Normal,No,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+4,Male,Kabira,Below Primary,No,Normal,No,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+10,Male,Mutara,Primary,Yes,Asthma,No,No,Normal,Other,Yes,Vomiting,3 to 5 days,No,Less than 2km,Three times,No
+10,Male,Mutara,Primary,Yes,Asthma,No,No,Normal,DPT,Yes,Vomiting,3 to 5 days,No,Less than 2km,Three times,No
+10,Male,Mutara,Primary,Yes,Asthma,No,No,Normal,Measles,Yes,Vomiting,3 to 5 days,No,Less than 2km,Three times,No
+7,Female,Kashenshero,Tertiary,Yes,Other,No,Yes,Accident,DPT,Yes,Swelling,3 to 5 days,No,2?5km,Once,No
+7,Female,Kashenshero,Tertiary,Yes,Other,No,Yes,Accident,Other,Yes,Swelling,3 to 5 days,No,2?5km,Once,No
+7,Female,Kashenshero,Tertiary,Yes,Other,No,Yes,Accident,Polio,Yes,Swelling,3 to 5 days,No,2?5km,Once,No
+8,Male,Rurehe,Secondary,Yes,Other,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Male,Rurehe,Secondary,Yes,Other,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+2,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+2,Male,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+2,Female,Rutookye TC,Tertiary,Yes,Asthma,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+2,Female,Rutookye TC,Tertiary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,No
+2,Male,Mitooma,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Rash,1 to 2 days,No,Less than 2km,Twice,No
+2,Male,Mitooma,Primary,No,Normal,Yes,No,Normal,DPT,Yes,Rash,1 to 2 days,No,Less than 2km,Twice,No
+2,Male,Mitooma,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Rash,1 to 2 days,No,Less than 2km,Twice,No
+11,Male,Mitooma,Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Rash,3 to 5 days,No,2?5km,Once,No
+11,Male,Mitooma,Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Rash,3 to 5 days,No,2?5km,Once,No
+11,Male,Mitooma,Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Rash,3 to 5 days,No,2?5km,Once,No
+3,Female,Katenga,Tertiary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+3,Female,Katenga,Tertiary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+3,Female,Katenga,Tertiary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+5,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,BCG,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+5,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,DPT,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+5,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,Other,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+5,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Infection,Measles,Yes,Seizures,1 to 2 days,No,2?5km,Twice,Yes
+7,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,Measles,Yes,Seizures,1 to 2 days,Yes,More than 5km,Rarely,No
+7,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,DPT,Yes,Seizures,1 to 2 days,Yes,More than 5km,Rarely,No
+7,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,Polio,Yes,Seizures,1 to 2 days,Yes,More than 5km,Rarely,No
+3,Male,Mitooma TC,Secondary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+3,Male,Mitooma TC,Secondary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+3,Male,Mitooma TC,Secondary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+3,Male,Mitooma TC,Secondary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Kashenshero TC,Below Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+2,Male,Mutara,Secondary,Yes,Other,Yes,Yes,Accident,BCG,Yes,Rash,3 to 5 days,Yes,More than 5km,Once,Yes
+9,Male,Kiyanga,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,2?5km,Once,Yes
+4,Female,Katenga,Below Primary,Yes,HIV_AIDS,No,No,Normal,DPT,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+4,Female,Katenga,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Seizures,3 to 5 days,Yes,2?5km,Three times,No
+1,Female,Kashenshero TC,Below Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Seizures,3 to 5 days,Yes,Less than 2km,Twice,No
+1,Female,Kashenshero TC,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Seizures,3 to 5 days,Yes,Less than 2km,Twice,No
+1,Female,Kashenshero TC,Below Primary,Yes,HIV_AIDS,No,No,Normal,DPT,Yes,Seizures,3 to 5 days,Yes,Less than 2km,Twice,No
+10,Male,Rurehe,Secondary,No,Normal,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,No
+10,Male,Rurehe,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,No
+10,Male,Rurehe,Secondary,No,Normal,Yes,No,Normal,Other,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,No
+5,Female,Bitereko,Below Primary,Yes,Other,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,No,More than 5km,Three times,Yes
+6,Female,Kanyabwanga,Tertiary,No,Normal,No,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Female,Kanyabwanga,Tertiary,No,Normal,No,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+6,Female,Kanyabwanga,Tertiary,No,Normal,No,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+1,Female,Mitooma,Primary,No,Normal,Yes,Yes,Infection,Polio,Yes,Swelling,Less than 24 hours,No,More than 5km,Twice,No
+1,Female,Mitooma,Primary,No,Normal,Yes,Yes,Infection,Measles,Yes,Swelling,Less than 24 hours,No,More than 5km,Twice,No
+12,Male,Rurehe,Below Primary,Yes,Other,No,No,Normal,Other,Yes,Rash,3 to 5 days,Yes,More than 5km,Rarely,Yes
+12,Male,Rurehe,Below Primary,Yes,Other,No,No,Normal,BCG,Yes,Rash,3 to 5 days,Yes,More than 5km,Rarely,Yes
+12,Male,Rurehe,Below Primary,Yes,Other,No,No,Normal,Polio,Yes,Rash,3 to 5 days,Yes,More than 5km,Rarely,Yes
+2,Male,Bitereko,Below Primary,Yes,Other,No,No,Normal,Measles,Yes,Fever,Less than 24 hours,No,2?5km,Three times,No
+8,Female,Bitereko,Secondary,No,Normal,No,No,Normal,Polio,Yes,Seizures,1 to 2 days,Yes,2?5km,Twice,Yes
+8,Female,Bitereko,Secondary,No,Normal,No,No,Normal,DPT,Yes,Seizures,1 to 2 days,Yes,2?5km,Twice,Yes
+8,Female,Bitereko,Secondary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,Yes,2?5km,Twice,Yes
+9,Female,Katenga,Primary,Yes,Heart Disease,No,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+8,Male,Mayanga,Secondary,Yes,Asthma,No,Yes,Accident,DPT,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+8,Male,Mayanga,Secondary,Yes,Asthma,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+8,Male,Mayanga,Secondary,Yes,Asthma,No,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+8,Male,Mayanga,Secondary,Yes,Asthma,No,Yes,Accident,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+10,Male,Mutara,Tertiary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+10,Male,Mutara,Tertiary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+12,Male,Kanyabwanga,Primary,Yes,Sickle Cell,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Male,Kanyabwanga,Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Male,Kanyabwanga,Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+10,Female,Rurehe,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Measles,Yes,Fever,More than 5 days,Yes,More than 5km,Rarely,No
+2,Female,Kiyanga,Tertiary,Yes,Other,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Female,Kiyanga,Tertiary,Yes,Other,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Female,Kiyanga,Tertiary,Yes,Other,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Female,Kiyanga,Tertiary,Yes,Other,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Female,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+6,Female,Rurehe,Below Primary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+4,Male,Kiyanga,Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+8,Male,Bitereko,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+8,Male,Bitereko,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+4,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+4,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+4,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+4,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Rash,More than 5 days,Yes,More than 5km,Twice,Yes
+1,Male,Kashenshero TC,Primary,Yes,Asthma,No,No,Normal,DPT,Yes,Swelling,3 to 5 days,No,More than 5km,Twice,Yes
+1,Male,Kashenshero TC,Primary,Yes,Asthma,No,No,Normal,Other,Yes,Swelling,3 to 5 days,No,More than 5km,Twice,Yes
+1,Male,Kashenshero TC,Primary,Yes,Asthma,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,No,More than 5km,Twice,Yes
+1,Male,Kashenshero TC,Primary,Yes,Asthma,No,No,Normal,Polio,Yes,Swelling,3 to 5 days,No,More than 5km,Twice,Yes
+10,Female,Rurehe,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,No
+10,Female,Rurehe,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+10,Female,Rurehe,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+10,Female,Rurehe,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Male,Kashenshero,Primary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+7,Female,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Malaria,BCG,Yes,Seizures,More than 5 days,No,Less than 2km,Rarely,Yes
+6,Male,Kabira,Tertiary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+6,Female,Bitereko,Primary,Yes,Asthma,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+6,Female,Bitereko,Primary,Yes,Asthma,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+6,Female,Bitereko,Primary,Yes,Asthma,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+5,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,2?5km,Once,No
+5,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,2?5km,Once,No
+8,Male,Mayanga,Tertiary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Swelling,More than 5 days,No,2?5km,Rarely,Yes
+8,Male,Mayanga,Tertiary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Swelling,More than 5 days,No,2?5km,Rarely,Yes
+8,Male,Mayanga,Tertiary,Yes,Sickle Cell,Yes,No,Normal,Measles,Yes,Swelling,More than 5 days,No,2?5km,Rarely,Yes
+2,Female,Kanyabwanga,Tertiary,Yes,HIV_AIDS,No,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,Yes
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,Yes
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,Yes
+6,Female,Mitooma TC,Primary,No,Normal,No,Yes,Malaria,BCG,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,Yes
+6,Female,Mitooma TC,Primary,No,Normal,No,Yes,Malaria,Other,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,Yes
+6,Female,Mitooma TC,Primary,No,Normal,No,Yes,Malaria,Polio,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,Yes
+6,Female,Mitooma TC,Primary,No,Normal,No,Yes,Malaria,Measles,Yes,Fever,1 to 2 days,No,Less than 2km,Rarely,Yes
+11,Female,Mayanga,Primary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,More than 5 days,Yes,More than 5km,Three times,No
+11,Female,Mayanga,Primary,No,Normal,Yes,Yes,Other,DPT,Yes,Swelling,More than 5 days,Yes,More than 5km,Three times,No
+11,Female,Mayanga,Primary,No,Normal,Yes,Yes,Other,Polio,Yes,Swelling,More than 5 days,Yes,More than 5km,Three times,No
+11,Female,Mayanga,Primary,No,Normal,Yes,Yes,Other,Other,Yes,Swelling,More than 5 days,Yes,More than 5km,Three times,No
+4,Female,Kashenshero,Secondary,Yes,Heart Disease,No,No,Normal,BCG,Yes,Fever,3 to 5 days,Yes,More than 5km,Twice,No
+7,Female,Mutara,Primary,Yes,Asthma,Yes,No,Normal,Other,Yes,Fever,3 to 5 days,No,Less than 2km,Twice,No
+7,Female,Mutara,Primary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Fever,3 to 5 days,No,Less than 2km,Twice,No
+5,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+5,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,Yes,No,Normal,Polio,Yes,Seizures,3 to 5 days,Yes,More than 5km,Rarely,Yes
+6,Female,Kiyanga,Below Primary,Yes,Heart Disease,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Female,Kiyanga,Below Primary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Female,Kiyanga,Below Primary,Yes,Heart Disease,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Female,Rurehe,Primary,No,Normal,No,No,Normal,Measles,Yes,Swelling,1 to 2 days,Yes,2?5km,Twice,No
+7,Female,Rurehe,Primary,No,Normal,No,No,Normal,BCG,Yes,Swelling,1 to 2 days,Yes,2?5km,Twice,No
+7,Female,Rurehe,Primary,No,Normal,No,No,Normal,Polio,Yes,Swelling,1 to 2 days,Yes,2?5km,Twice,No
+7,Female,Rurehe,Primary,No,Normal,No,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,2?5km,Twice,No
+8,Female,Kanyabwanga,Secondary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Kanyabwanga,Secondary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Kanyabwanga,Secondary,Yes,Heart Disease,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Kashenshero TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Measles,Yes,Fever,3 to 5 days,Yes,2?5km,Twice,Yes
+2,Male,Kashenshero TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Polio,Yes,Fever,3 to 5 days,Yes,2?5km,Twice,Yes
+2,Male,Kashenshero TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,BCG,Yes,Fever,3 to 5 days,Yes,2?5km,Twice,Yes
+10,Female,Kabira,Below Primary,No,Normal,No,Yes,Infection,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+10,Female,Kabira,Below Primary,No,Normal,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+12,Male,Kiyanga,Tertiary,No,Normal,No,Yes,Malaria,Measles,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,Yes
+12,Male,Kiyanga,Tertiary,No,Normal,No,Yes,Malaria,Other,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,Yes
+9,Female,Mutara,Secondary,Yes,Other,Yes,Yes,Malaria,BCG,Yes,Swelling,More than 5 days,No,2?5km,Rarely,No
+7,Male,Bitereko,Secondary,Yes,Heart Disease,No,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+9,Male,Katenga,Primary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Katenga,Primary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Katenga,Primary,No,Normal,No,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Katenga,Primary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+1,Female,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Female,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Female,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Female,Kanyabwanga,Secondary,Yes,HIV_AIDS,No,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+10,Female,Kashenshero TC,Primary,Yes,Sickle Cell,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+10,Female,Kashenshero TC,Primary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+10,Female,Kashenshero TC,Primary,Yes,Sickle Cell,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+5,Female,Rurehe,Below Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+5,Female,Rurehe,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+5,Female,Rurehe,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+5,Female,Rurehe,Below Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+9,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,Other,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,No
+9,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,DPT,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,No
+9,Male,Mitooma,Below Primary,No,Normal,No,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,2?5km,Rarely,No
+7,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,BCG,Yes,Other,3 to 5 days,No,More than 5km,Once,No
+7,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,DPT,Yes,Other,3 to 5 days,No,More than 5km,Once,No
+7,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,Other,Yes,Other,3 to 5 days,No,More than 5km,Once,No
+3,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+3,Male,Rurehe,Secondary,Yes,Asthma,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Other,BCG,Yes,Seizures,1 to 2 days,No,Less than 2km,Once,Yes
+2,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Other,Polio,Yes,Seizures,1 to 2 days,No,Less than 2km,Once,Yes
+2,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Other,Measles,Yes,Seizures,1 to 2 days,No,Less than 2km,Once,Yes
+2,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Other,DPT,Yes,Seizures,1 to 2 days,No,Less than 2km,Once,Yes
+2,Male,Kashenshero,Below Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+8,Male,Rutookye TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Polio,Yes,Seizures,1 to 2 days,Yes,Less than 2km,Twice,Yes
+8,Male,Rutookye TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,BCG,Yes,Seizures,1 to 2 days,Yes,Less than 2km,Twice,Yes
+8,Male,Rutookye TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Measles,Yes,Seizures,1 to 2 days,Yes,Less than 2km,Twice,Yes
+8,Male,Rutookye TC,Secondary,Yes,HIV_AIDS,Yes,Yes,Infection,Other,Yes,Seizures,1 to 2 days,Yes,Less than 2km,Twice,Yes
+8,Female,Bitereko,Secondary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+11,Male,Kiyanga,Below Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+11,Male,Kiyanga,Below Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+11,Male,Kiyanga,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Female,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,Yes,Fever,More than 5 days,Yes,2?5km,Once,Yes
+1,Female,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,Yes,Fever,More than 5 days,Yes,2?5km,Once,Yes
+1,Female,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Fever,More than 5 days,Yes,2?5km,Once,Yes
+1,Female,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Fever,More than 5 days,Yes,2?5km,Once,Yes
+9,Female,Mitooma TC,Tertiary,No,Normal,No,Yes,Infection,Other,Yes,Fever,3 to 5 days,Yes,More than 5km,Once,Yes
+9,Female,Mitooma TC,Tertiary,No,Normal,No,Yes,Infection,BCG,Yes,Fever,3 to 5 days,Yes,More than 5km,Once,Yes
+8,Male,Mitooma,Below Primary,Yes,Other,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,2?5km,Three times,No
+8,Male,Mitooma,Below Primary,Yes,Other,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+5,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,1 to 2 days,Yes,More than 5km,Once,No
+5,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Swelling,1 to 2 days,Yes,More than 5km,Once,No
+5,Male,Rurehe,Primary,No,Normal,Yes,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,More than 5km,Once,No
+4,Female,Kabira,Secondary,No,Normal,Yes,Yes,Accident,Polio,Yes,Vomiting,3 to 5 days,No,More than 5km,Rarely,No
+4,Female,Kabira,Secondary,No,Normal,Yes,Yes,Accident,Other,Yes,Vomiting,3 to 5 days,No,More than 5km,Rarely,No
+4,Female,Kabira,Secondary,No,Normal,Yes,Yes,Accident,DPT,Yes,Vomiting,3 to 5 days,No,More than 5km,Rarely,No
+4,Female,Kabira,Secondary,No,Normal,Yes,Yes,Accident,BCG,Yes,Vomiting,3 to 5 days,No,More than 5km,Rarely,No
+8,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,Other,Yes,Fever,1 to 2 days,No,More than 5km,Three times,Yes
+8,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,Polio,Yes,Fever,1 to 2 days,No,More than 5km,Three times,Yes
+8,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,DPT,Yes,Fever,1 to 2 days,No,More than 5km,Three times,Yes
+8,Female,Katenga,Secondary,Yes,Heart Disease,No,No,Normal,Measles,Yes,Fever,1 to 2 days,No,More than 5km,Three times,Yes
+9,Female,Kanyabwanga,Below Primary,Yes,Asthma,No,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+9,Female,Kanyabwanga,Below Primary,Yes,Asthma,No,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+9,Female,Kanyabwanga,Below Primary,Yes,Asthma,No,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Three times,No
+8,Female,Mitooma TC,Primary,Yes,Other,Yes,No,Normal,Measles,Yes,Seizures,More than 5 days,No,More than 5km,Rarely,No
+12,Female,Kabira,Tertiary,No,Normal,Yes,Yes,Infection,Polio,Yes,Seizures,Less than 24 hours,Yes,2?5km,Three times,Yes
+12,Female,Kabira,Tertiary,No,Normal,Yes,Yes,Infection,Other,Yes,Seizures,Less than 24 hours,Yes,2?5km,Three times,Yes
+1,Male,Rurehe,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,No
+1,Male,Rurehe,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+9,Male,Kashenshero,Secondary,Yes,HIV_AIDS,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+9,Male,Kashenshero,Secondary,Yes,HIV_AIDS,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+9,Male,Kashenshero,Secondary,Yes,HIV_AIDS,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+9,Male,Kashenshero,Secondary,Yes,HIV_AIDS,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Mayanga,Secondary,Yes,Other,No,Yes,Infection,Other,Yes,Swelling,More than 5 days,No,Less than 2km,Rarely,Yes
+9,Female,Rurehe,Below Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+10,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Malaria,Other,Yes,Seizures,Less than 24 hours,Yes,2?5km,Twice,No
+1,Male,Mutara,Primary,No,Normal,Yes,Yes,Other,Polio,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+1,Male,Mutara,Primary,No,Normal,Yes,Yes,Other,BCG,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+3,Male,Rurehe,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+3,Male,Rurehe,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Male,Bitereko,Below Primary,Yes,Other,Yes,Yes,Other,DPT,Yes,Other,Less than 24 hours,No,2?5km,Three times,Yes
+1,Male,Bitereko,Below Primary,Yes,Other,Yes,Yes,Other,Other,Yes,Other,Less than 24 hours,No,2?5km,Three times,Yes
+3,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,No
+3,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,No
+3,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,No
+3,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Vomiting,3 to 5 days,Yes,Less than 2km,Rarely,No
+8,Female,Kashenshero TC,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Fever,More than 5 days,No,Less than 2km,Once,Yes
+9,Female,Bitereko,Tertiary,No,Normal,Yes,Yes,Malaria,BCG,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+9,Female,Bitereko,Tertiary,No,Normal,Yes,Yes,Malaria,DPT,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+9,Female,Bitereko,Tertiary,No,Normal,Yes,Yes,Malaria,Other,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+9,Female,Kiyanga,Primary,Yes,Other,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Once,No
+9,Female,Kiyanga,Primary,Yes,Other,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,2?5km,Once,No
+9,Female,Kiyanga,Primary,Yes,Other,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Once,No
+9,Female,Kiyanga,Primary,Yes,Other,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+11,Female,Rurehe,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+2,Female,Bitereko,Primary,Yes,Heart Disease,Yes,Yes,Malaria,DPT,Yes,Rash,3 to 5 days,No,More than 5km,Twice,Yes
+3,Male,Mitooma,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+6,Female,Rutookye TC,Secondary,Yes,Sickle Cell,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+6,Female,Rutookye TC,Secondary,Yes,Sickle Cell,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+6,Female,Rutookye TC,Secondary,Yes,Sickle Cell,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+2,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+2,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+2,Male,Katenga,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+1,Female,Mitooma TC,Primary,Yes,Other,No,No,Normal,Measles,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,Yes
+1,Female,Mitooma TC,Primary,Yes,Other,No,No,Normal,Polio,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,Yes
+1,Female,Mitooma TC,Primary,Yes,Other,No,No,Normal,DPT,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,Yes
+1,Female,Mitooma TC,Primary,Yes,Other,No,No,Normal,Other,Yes,Seizures,More than 5 days,Yes,2?5km,Three times,Yes
+12,Female,Kabira,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+12,Female,Kabira,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+12,Female,Kabira,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+12,Female,Kabira,Tertiary,Yes,Heart Disease,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+2,Female,Kiyanga,Secondary,Yes,HIV_AIDS,No,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Kiyanga,Secondary,Yes,HIV_AIDS,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Kiyanga,Secondary,Yes,HIV_AIDS,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Kiyanga,Secondary,Yes,HIV_AIDS,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+9,Male,Katenga,Primary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+11,Male,Katenga,Tertiary,Yes,Other,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+7,Female,Kanyabwanga,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+7,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,DPT,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,No
+7,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,Measles,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,No
+7,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,Polio,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,No
+7,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Twice,No
+5,Female,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+5,Female,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+5,Female,Kanyabwanga,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Fever,More than 5 days,No,2?5km,Three times,Yes
+12,Male,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,No
+12,Male,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Once,No
+4,Female,Kanyabwanga,Secondary,Yes,Asthma,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+4,Female,Kanyabwanga,Secondary,Yes,Asthma,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+4,Female,Kanyabwanga,Secondary,Yes,Asthma,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+4,Female,Kanyabwanga,Secondary,Yes,Asthma,Yes,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+1,Male,Kanyabwanga,Secondary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+1,Male,Kanyabwanga,Secondary,No,Normal,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,Less than 2km,Once,No
+1,Male,Kanyabwanga,Secondary,No,Normal,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+1,Male,Kanyabwanga,Secondary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+8,Female,Kiyanga,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+8,Female,Kiyanga,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+8,Female,Kiyanga,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+6,Male,Kashenshero,Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Male,Kashenshero,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Male,Mutara,Secondary,No,Normal,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Male,Mutara,Secondary,No,Normal,Yes,Yes,Infection,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Male,Mutara,Secondary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+6,Male,Mutara,Secondary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+1,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,Yes
+1,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,Yes
+1,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,Yes
+1,Female,Katenga,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Fever,3 to 5 days,Yes,2?5km,Three times,Yes
+10,Male,Rutookye TC,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Male,Rutookye TC,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Male,Rutookye TC,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+9,Female,Kabira,Secondary,No,Normal,No,Yes,Other,Measles,Yes,Seizures,3 to 5 days,Yes,Less than 2km,Once,No
+9,Female,Kabira,Secondary,No,Normal,No,Yes,Other,Other,Yes,Seizures,3 to 5 days,Yes,Less than 2km,Once,No
+10,Female,Mitooma,Primary,No,Normal,Yes,Yes,Infection,BCG,Yes,Fever,3 to 5 days,Yes,Less than 2km,Three times,No
+10,Female,Mitooma,Primary,No,Normal,Yes,Yes,Infection,Measles,Yes,Fever,3 to 5 days,Yes,Less than 2km,Three times,No
+7,Male,Katenga,Primary,Yes,Sickle Cell,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Katenga,Primary,Yes,Sickle Cell,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Katenga,Primary,Yes,Sickle Cell,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+8,Male,Mutara,Secondary,Yes,Heart Disease,Yes,No,Normal,BCG,Yes,Vomiting,3 to 5 days,No,2?5km,Rarely,Yes
+6,Female,Bitereko,Below Primary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Female,Bitereko,Below Primary,Yes,Asthma,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+2,Male,Rurehe,Below Primary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+2,Male,Rurehe,Below Primary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+4,Male,Mutara,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,Other,Yes,Fever,3 to 5 days,No,More than 5km,Twice,Yes
+4,Male,Mutara,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,Polio,Yes,Fever,3 to 5 days,No,More than 5km,Twice,Yes
+4,Male,Mutara,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,DPT,Yes,Fever,3 to 5 days,No,More than 5km,Twice,Yes
+4,Male,Mutara,Tertiary,Yes,HIV_AIDS,No,Yes,Infection,BCG,Yes,Fever,3 to 5 days,No,More than 5km,Twice,Yes
+6,Female,Mitooma,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+11,Female,Rutookye TC,Secondary,No,Normal,Yes,No,Normal,DPT,Yes,Other,More than 5 days,Yes,2?5km,Twice,Yes
+12,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+12,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,DPT,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+12,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,Other,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+12,Female,Kabira,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,Yes,2?5km,Three times,No
+10,Female,Mutara,Tertiary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+10,Female,Mutara,Tertiary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+11,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+5,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+6,Male,Kashenshero,Tertiary,No,Normal,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+5,Male,Kashenshero TC,Secondary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+5,Male,Kashenshero TC,Secondary,Yes,Heart Disease,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+11,Female,Mayanga,Secondary,Yes,HIV_AIDS,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+1,Female,Kashenshero,Primary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+6,Male,Mutara,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,Less than 2km,Three times,Yes
+6,Male,Mutara,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Swelling,More than 5 days,No,Less than 2km,Three times,Yes
+6,Male,Mutara,Primary,No,Normal,Yes,No,Normal,Other,Yes,Swelling,More than 5 days,No,Less than 2km,Three times,Yes
+8,Female,Kabira,Below Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,2?5km,Once,No
+8,Female,Kabira,Below Primary,Yes,HIV_AIDS,No,No,Normal,DPT,Yes,Seizures,3 to 5 days,No,2?5km,Once,No
+8,Female,Kabira,Below Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Seizures,3 to 5 days,No,2?5km,Once,No
+5,Female,Kashenshero TC,Below Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+5,Female,Kashenshero TC,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Female,Rutookye TC,Primary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Seizures,Less than 24 hours,No,Less than 2km,Twice,No
+1,Female,Rutookye TC,Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,Yes,Seizures,Less than 24 hours,No,Less than 2km,Twice,No
+1,Female,Rutookye TC,Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Seizures,Less than 24 hours,No,Less than 2km,Twice,No
+1,Female,Rutookye TC,Primary,Yes,Sickle Cell,Yes,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,Less than 2km,Twice,No
+4,Female,Mutara,Primary,No,Normal,Yes,Yes,Accident,Polio,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,No
+4,Female,Mutara,Primary,No,Normal,Yes,Yes,Accident,BCG,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,No
+4,Female,Mutara,Primary,No,Normal,Yes,Yes,Accident,DPT,Yes,Seizures,Less than 24 hours,Yes,2?5km,Rarely,No
+9,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+12,Male,Kabira,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+8,Male,Mitooma TC,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+8,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+8,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+8,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+8,Male,Rutookye TC,Primary,Yes,Heart Disease,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Female,Rutookye TC,Primary,Yes,Asthma,No,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Once,Yes
+6,Female,Rutookye TC,Primary,Yes,Asthma,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+6,Female,Rutookye TC,Primary,Yes,Asthma,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Once,Yes
+6,Male,Kiyanga,Secondary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+6,Male,Kiyanga,Secondary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+6,Male,Kiyanga,Secondary,No,Normal,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+6,Male,Kiyanga,Secondary,No,Normal,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Infection,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+2,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+10,Female,Kiyanga,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+10,Female,Kiyanga,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Once,Yes
+3,Female,Kabira,Tertiary,No,Normal,No,No,Normal,Polio,Yes,Swelling,1 to 2 days,No,More than 5km,Rarely,No
+3,Female,Kabira,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Swelling,1 to 2 days,No,More than 5km,Rarely,No
+3,Female,Kabira,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Swelling,1 to 2 days,No,More than 5km,Rarely,No
+7,Female,Kiyanga,Primary,Yes,Sickle Cell,Yes,Yes,Accident,Measles,Yes,Seizures,More than 5 days,No,More than 5km,Rarely,Yes
+7,Female,Kiyanga,Primary,Yes,Sickle Cell,Yes,Yes,Accident,BCG,Yes,Seizures,More than 5 days,No,More than 5km,Rarely,Yes
+9,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+3,Male,Mitooma,Primary,Yes,Asthma,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+3,Male,Mitooma,Primary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+5,Male,Katenga,Primary,Yes,Heart Disease,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+5,Male,Katenga,Primary,Yes,Heart Disease,No,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+8,Male,Mitooma,Tertiary,Yes,Other,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+8,Male,Mitooma,Tertiary,Yes,Other,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+8,Male,Mitooma,Tertiary,Yes,Other,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+8,Male,Mitooma,Tertiary,Yes,Other,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Male,Katenga,Secondary,No,Normal,No,Yes,Malaria,DPT,Yes,Seizures,Less than 24 hours,No,Less than 2km,Three times,Yes
+1,Male,Katenga,Secondary,No,Normal,No,Yes,Malaria,BCG,Yes,Seizures,Less than 24 hours,No,Less than 2km,Three times,Yes
+1,Male,Katenga,Secondary,No,Normal,No,Yes,Malaria,Measles,Yes,Seizures,Less than 24 hours,No,Less than 2km,Three times,Yes
+1,Male,Katenga,Secondary,No,Normal,No,Yes,Malaria,Other,Yes,Seizures,Less than 24 hours,No,Less than 2km,Three times,Yes
+5,Male,Mayanga,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Mayanga,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Mayanga,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,No
+5,Male,Mayanga,Tertiary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Rarely,No
+7,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Infection,Measles,Yes,Rash,3 to 5 days,Yes,2?5km,Once,No
+7,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Infection,Polio,Yes,Rash,3 to 5 days,Yes,2?5km,Once,No
+7,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Infection,DPT,Yes,Rash,3 to 5 days,Yes,2?5km,Once,No
+7,Male,Kashenshero,Tertiary,No,Normal,No,Yes,Infection,Other,Yes,Rash,3 to 5 days,Yes,2?5km,Once,No
+6,Female,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Female,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Three times,Yes
+6,Female,Mitooma TC,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+7,Male,Kashenshero,Secondary,Yes,Other,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+7,Male,Kashenshero,Secondary,Yes,Other,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+7,Male,Kashenshero,Secondary,Yes,Other,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+8,Male,Katenga,Tertiary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+10,Male,Mayanga,Below Primary,Yes,Other,No,No,Normal,DPT,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+10,Male,Mayanga,Below Primary,Yes,Other,No,No,Normal,Other,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+10,Male,Mayanga,Below Primary,Yes,Other,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Twice,Yes
+10,Male,Mitooma TC,Secondary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+6,Male,Kanyabwanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+6,Male,Kanyabwanga,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Male,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,BCG,Yes,Seizures,1 to 2 days,No,Less than 2km,Rarely,No
+12,Male,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Seizures,1 to 2 days,No,Less than 2km,Rarely,No
+12,Male,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Seizures,1 to 2 days,No,Less than 2km,Rarely,No
+12,Male,Rurehe,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,DPT,Yes,Seizures,1 to 2 days,No,Less than 2km,Rarely,No
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+5,Male,Kashenshero TC,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+3,Female,Rurehe,Tertiary,Yes,Asthma,Yes,No,Normal,Other,Yes,Rash,More than 5 days,Yes,Less than 2km,Once,No
+3,Female,Rurehe,Tertiary,Yes,Asthma,Yes,No,Normal,Measles,Yes,Rash,More than 5 days,Yes,Less than 2km,Once,No
+3,Female,Rurehe,Tertiary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Rash,More than 5 days,Yes,Less than 2km,Once,No
+3,Female,Rurehe,Tertiary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Rash,More than 5 days,Yes,Less than 2km,Once,No
+12,Male,Kanyabwanga,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+12,Male,Kanyabwanga,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+9,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,Yes,Other,DPT,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,No
+9,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,Yes,Other,Polio,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,No
+9,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,Yes,Other,Other,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,No
+9,Male,Kashenshero TC,Secondary,Yes,Sickle Cell,Yes,Yes,Other,Measles,Yes,Seizures,1 to 2 days,Yes,More than 5km,Three times,No
+9,Female,Bitereko,Primary,Yes,Asthma,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,No
+9,Female,Bitereko,Primary,Yes,Asthma,Yes,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Rarely,No
+2,Female,Mitooma TC,Secondary,Yes,HIV_AIDS,No,Yes,Other,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+4,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,Yes,Infection,Other,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,No
+4,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,Yes,Infection,Measles,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,No
+4,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,Yes,Infection,BCG,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,No
+4,Female,Katenga,Secondary,Yes,Sickle Cell,Yes,Yes,Infection,Polio,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,No
+5,Male,Rutookye TC,Below Primary,No,Normal,Yes,Yes,Malaria,BCG,Yes,Rash,3 to 5 days,Yes,More than 5km,Rarely,No
+9,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Other,Yes,Seizures,1 to 2 days,No,Less than 2km,Three times,Yes
+9,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Polio,Yes,Seizures,1 to 2 days,No,Less than 2km,Three times,Yes
+9,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Accident,Measles,Yes,Seizures,1 to 2 days,No,Less than 2km,Three times,Yes
+2,Male,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+2,Male,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+11,Female,Kanyabwanga,Tertiary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Seizures,Less than 24 hours,No,2?5km,Rarely,No
+11,Female,Kanyabwanga,Tertiary,Yes,Asthma,Yes,No,Normal,Measles,Yes,Seizures,Less than 24 hours,No,2?5km,Rarely,No
+5,Female,Mitooma,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+5,Female,Mitooma,Tertiary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Kashenshero,Below Primary,Yes,Heart Disease,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Kashenshero,Below Primary,Yes,Heart Disease,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Kashenshero,Below Primary,Yes,Heart Disease,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Kashenshero,Below Primary,Yes,Heart Disease,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Female,Kashenshero TC,Tertiary,No,Normal,No,Yes,Malaria,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+4,Male,Kanyabwanga,Tertiary,No,Normal,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+6,Female,Katenga,Primary,Yes,Sickle Cell,No,No,Normal,DPT,Yes,Rash,Less than 24 hours,No,More than 5km,Rarely,Yes
+6,Female,Katenga,Primary,Yes,Sickle Cell,No,No,Normal,BCG,Yes,Rash,Less than 24 hours,No,More than 5km,Rarely,Yes
+3,Male,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Infection,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+3,Male,Kabira,Tertiary,Yes,Heart Disease,No,Yes,Infection,BCG,No,Normal,Normal,Normal,2?5km,Twice,Yes
+8,Female,Kashenshero,Secondary,Yes,Other,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+8,Female,Kashenshero,Secondary,Yes,Other,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+7,Male,Rurehe,Secondary,Yes,Other,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Rarely,No
+7,Male,Rurehe,Secondary,Yes,Other,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Rarely,No
+7,Male,Rurehe,Secondary,Yes,Other,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Rarely,No
+7,Male,Rurehe,Secondary,Yes,Other,No,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Rarely,No
+1,Male,Katenga,Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Male,Katenga,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Male,Katenga,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+5,Female,Kanyabwanga,Below Primary,Yes,Other,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,2?5km,Three times,No
+5,Female,Kanyabwanga,Below Primary,Yes,Other,Yes,Yes,Other,Other,No,Normal,Normal,Normal,2?5km,Three times,No
+5,Female,Kanyabwanga,Below Primary,Yes,Other,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,2?5km,Three times,No
+5,Female,Kanyabwanga,Below Primary,Yes,Other,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,2?5km,Three times,No
+6,Female,Kanyabwanga,Primary,Yes,Other,Yes,No,Normal,BCG,Yes,Fever,More than 5 days,No,More than 5km,Once,No
+6,Female,Kanyabwanga,Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Fever,More than 5 days,No,More than 5km,Once,No
+6,Female,Kanyabwanga,Primary,Yes,Other,Yes,No,Normal,DPT,Yes,Fever,More than 5 days,No,More than 5km,Once,No
+6,Female,Kanyabwanga,Primary,Yes,Other,Yes,No,Normal,Measles,Yes,Fever,More than 5 days,No,More than 5km,Once,No
+1,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Rash,1 to 2 days,No,Less than 2km,Rarely,No
+1,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Rash,1 to 2 days,No,Less than 2km,Rarely,No
+1,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Rash,1 to 2 days,No,Less than 2km,Rarely,No
+1,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Rash,1 to 2 days,No,Less than 2km,Rarely,No
+6,Male,Katenga,Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+6,Male,Katenga,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+9,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Rarely,No
+9,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Rarely,No
+9,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,No
+10,Male,Mayanga,Below Primary,Yes,Sickle Cell,No,Yes,Accident,DPT,Yes,Vomiting,More than 5 days,Yes,2?5km,Twice,No
+9,Female,Mayanga,Secondary,No,Normal,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+9,Female,Mayanga,Secondary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+12,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Male,Rurehe,Tertiary,Yes,Sickle Cell,Yes,Yes,Infection,Measles,Yes,Swelling,Less than 24 hours,No,Less than 2km,Once,No
+1,Male,Kashenshero,Secondary,Yes,Sickle Cell,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+1,Male,Kashenshero,Secondary,Yes,Sickle Cell,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+7,Female,Mitooma,Primary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+7,Female,Mitooma,Primary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+7,Female,Mitooma,Primary,No,Normal,No,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+7,Female,Mitooma,Primary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+2,Male,Rutookye TC,Secondary,Yes,Asthma,No,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Rutookye TC,Secondary,Yes,Asthma,No,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Rutookye TC,Secondary,Yes,Asthma,No,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+2,Male,Rutookye TC,Secondary,Yes,Asthma,No,Yes,Accident,Other,No,Normal,Normal,Normal,2?5km,Twice,Yes
+12,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,Other,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+12,Female,Rutookye TC,Below Primary,No,Normal,No,Yes,Other,Measles,Yes,Fever,More than 5 days,No,More than 5km,Once,Yes
+11,Male,Kiyanga,Secondary,Yes,Other,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+11,Male,Kiyanga,Secondary,Yes,Other,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Rutookye TC,Below Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+12,Male,Rutookye TC,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+12,Male,Rutookye TC,Below Primary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+4,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+4,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+4,Female,Mitooma,Below Primary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,More than 5km,Rarely,Yes
+1,Male,Rurehe,Tertiary,No,Normal,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+1,Male,Rurehe,Tertiary,No,Normal,Yes,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+1,Male,Rurehe,Tertiary,No,Normal,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+1,Male,Rurehe,Tertiary,No,Normal,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+3,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Malaria,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+3,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+3,Male,Rurehe,Secondary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+8,Female,Katenga,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,2?5km,Three times,Yes
+9,Male,Mayanga,Primary,No,Normal,No,No,Normal,Other,Yes,Swelling,1 to 2 days,Yes,2?5km,Three times,No
+9,Male,Mayanga,Primary,No,Normal,No,No,Normal,Polio,Yes,Swelling,1 to 2 days,Yes,2?5km,Three times,No
+9,Male,Mayanga,Primary,No,Normal,No,No,Normal,DPT,Yes,Swelling,1 to 2 days,Yes,2?5km,Three times,No
+5,Male,Bitereko,Secondary,Yes,Heart Disease,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,No,More than 5km,Once,Yes
+5,Male,Bitereko,Secondary,Yes,Heart Disease,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,No,More than 5km,Once,Yes
+5,Male,Bitereko,Secondary,Yes,Heart Disease,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,No,More than 5km,Once,Yes
+8,Female,Kiyanga,Secondary,No,Normal,No,No,Normal,Measles,Yes,Swelling,3 to 5 days,No,Less than 2km,Twice,Yes
+3,Female,Katenga,Primary,Yes,Heart Disease,Yes,Yes,Other,Measles,Yes,Swelling,3 to 5 days,Yes,More than 5km,Rarely,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+4,Male,Rurehe,Tertiary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Male,Rurehe,Tertiary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+7,Male,Mutara,Below Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Rutookye TC,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Male,Kiyanga,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+1,Male,Kiyanga,Secondary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Rarely,Yes
+4,Female,Kashenshero TC,Below Primary,No,Normal,No,Yes,Infection,Measles,Yes,Fever,More than 5 days,No,Less than 2km,Twice,No
+4,Female,Kashenshero TC,Below Primary,No,Normal,No,Yes,Infection,BCG,Yes,Fever,More than 5 days,No,Less than 2km,Twice,No
+4,Female,Kashenshero TC,Below Primary,No,Normal,No,Yes,Infection,Other,Yes,Fever,More than 5 days,No,Less than 2km,Twice,No
+3,Female,Kiyanga,Below Primary,Yes,Asthma,Yes,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+3,Female,Kiyanga,Below Primary,Yes,Asthma,Yes,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Mayanga,Tertiary,Yes,HIV_AIDS,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Mayanga,Tertiary,Yes,HIV_AIDS,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Mayanga,Tertiary,Yes,HIV_AIDS,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+6,Female,Kanyabwanga,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Swelling,3 to 5 days,No,2?5km,Twice,Yes
+12,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+12,Male,Kashenshero,Tertiary,No,Normal,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Twice,No
+1,Male,Kanyabwanga,Tertiary,Yes,HIV_AIDS,No,No,Normal,Measles,Yes,Swelling,More than 5 days,Yes,More than 5km,Twice,No
+1,Male,Kanyabwanga,Tertiary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Swelling,More than 5 days,Yes,More than 5km,Twice,No
+11,Male,Kashenshero,Below Primary,No,Normal,No,No,Normal,Measles,Yes,Swelling,More than 5 days,Yes,More than 5km,Three times,No
+4,Male,Mutara,Secondary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+4,Male,Mutara,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Once,Yes
+7,Female,Katenga,Below Primary,Yes,Other,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+7,Female,Katenga,Below Primary,Yes,Other,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,2?5km,Twice,No
+12,Male,Kashenshero TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,Polio,Yes,Other,1 to 2 days,Yes,More than 5km,Once,Yes
+12,Male,Kashenshero TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,BCG,Yes,Other,1 to 2 days,Yes,More than 5km,Once,Yes
+12,Male,Kashenshero TC,Primary,Yes,HIV_AIDS,No,Yes,Accident,Other,Yes,Other,1 to 2 days,Yes,More than 5km,Once,Yes
+10,Female,Mutara,Tertiary,Yes,Heart Disease,No,Yes,Infection,Other,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Once,Yes
+10,Female,Mutara,Tertiary,Yes,Heart Disease,No,Yes,Infection,BCG,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Once,Yes
+10,Female,Mutara,Tertiary,Yes,Heart Disease,No,Yes,Infection,DPT,Yes,Seizures,Less than 24 hours,Yes,Less than 2km,Once,Yes
+8,Female,Katenga,Tertiary,Yes,Sickle Cell,No,Yes,Other,DPT,Yes,Rash,1 to 2 days,No,2?5km,Three times,No
+6,Female,Mayanga,Secondary,No,Normal,Yes,Yes,Other,BCG,Yes,Swelling,Less than 24 hours,No,More than 5km,Twice,Yes
+12,Female,Kashenshero,Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Female,Kashenshero,Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Female,Kashenshero,Primary,No,Normal,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+12,Female,Kashenshero,Primary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+9,Male,Kabira,Below Primary,Yes,Heart Disease,Yes,Yes,Infection,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Female,Mutara,Tertiary,No,Normal,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,Yes
+6,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Infection,Other,Yes,Fever,3 to 5 days,Yes,More than 5km,Rarely,No
+6,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Infection,Polio,Yes,Fever,3 to 5 days,Yes,More than 5km,Rarely,No
+6,Male,Rutookye TC,Tertiary,No,Normal,No,Yes,Infection,DPT,Yes,Fever,3 to 5 days,Yes,More than 5km,Rarely,No
+7,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Malaria,Polio,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+7,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Malaria,Measles,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+7,Female,Kashenshero,Secondary,No,Normal,Yes,Yes,Malaria,BCG,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+10,Female,Mayanga,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Seizures,1 to 2 days,No,Less than 2km,Twice,No
+10,Female,Mayanga,Primary,No,Normal,Yes,No,Normal,Other,Yes,Seizures,1 to 2 days,No,Less than 2km,Twice,No
+6,Female,Rurehe,Below Primary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Rarely,No
+12,Male,Mitooma TC,Primary,No,Normal,Yes,No,Normal,DPT,Yes,Swelling,More than 5 days,No,More than 5km,Twice,Yes
+12,Male,Mitooma TC,Primary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,More than 5km,Twice,Yes
+12,Male,Mitooma TC,Primary,No,Normal,Yes,No,Normal,Measles,Yes,Swelling,More than 5 days,No,More than 5km,Twice,Yes
+12,Male,Mitooma TC,Primary,No,Normal,Yes,No,Normal,BCG,Yes,Swelling,More than 5 days,No,More than 5km,Twice,Yes
+3,Female,Kashenshero,Primary,Yes,HIV_AIDS,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,Yes,2?5km,Rarely,No
+3,Female,Kashenshero,Primary,Yes,HIV_AIDS,No,No,Normal,Polio,Yes,Swelling,3 to 5 days,Yes,2?5km,Rarely,No
+3,Female,Kashenshero,Primary,Yes,HIV_AIDS,No,No,Normal,Other,Yes,Swelling,3 to 5 days,Yes,2?5km,Rarely,No
+8,Female,Mutara,Below Primary,No,Normal,No,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Once,No
+12,Male,Kanyabwanga,Secondary,Yes,Other,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,Yes,2?5km,Three times,Yes
+12,Male,Kanyabwanga,Secondary,Yes,Other,No,No,Normal,Measles,Yes,Swelling,Less than 24 hours,Yes,2?5km,Three times,Yes
+12,Male,Kanyabwanga,Secondary,Yes,Other,No,No,Normal,Polio,Yes,Swelling,Less than 24 hours,Yes,2?5km,Three times,Yes
+12,Male,Kanyabwanga,Secondary,Yes,Other,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,2?5km,Three times,Yes
+8,Female,Kanyabwanga,Below Primary,No,Normal,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Twice,No
+8,Female,Kanyabwanga,Below Primary,No,Normal,Yes,No,Normal,DPT,No,Normal,Normal,Normal,More than 5km,Twice,No
+7,Male,Rurehe,Tertiary,Yes,Other,Yes,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Twice,No
+7,Male,Rurehe,Tertiary,Yes,Other,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,No
+12,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Accident,BCG,Yes,Other,Less than 24 hours,No,Less than 2km,Three times,No
+12,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Accident,Polio,Yes,Other,Less than 24 hours,No,Less than 2km,Three times,No
+2,Female,Mutara,Below Primary,Yes,Other,Yes,No,Normal,BCG,Yes,Seizures,Less than 24 hours,Yes,More than 5km,Three times,No
+2,Female,Mutara,Below Primary,Yes,Other,Yes,No,Normal,Other,Yes,Seizures,Less than 24 hours,Yes,More than 5km,Three times,No
+2,Female,Mutara,Below Primary,Yes,Other,Yes,No,Normal,Polio,Yes,Seizures,Less than 24 hours,Yes,More than 5km,Three times,No
+2,Female,Mutara,Below Primary,Yes,Other,Yes,No,Normal,DPT,Yes,Seizures,Less than 24 hours,Yes,More than 5km,Three times,No
+8,Female,Rutookye TC,Secondary,No,Normal,No,Yes,Malaria,DPT,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+8,Female,Rutookye TC,Secondary,No,Normal,No,Yes,Malaria,Other,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+8,Female,Rutookye TC,Secondary,No,Normal,No,Yes,Malaria,BCG,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+8,Female,Rutookye TC,Secondary,No,Normal,No,Yes,Malaria,Polio,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+6,Female,Mutara,Secondary,Yes,Other,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,No
+6,Female,Mutara,Secondary,Yes,Other,Yes,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Twice,No
+12,Male,Katenga,Tertiary,Yes,HIV_AIDS,No,No,Normal,BCG,No,Normal,Normal,Normal,2?5km,Three times,Yes
+12,Male,Katenga,Tertiary,Yes,HIV_AIDS,No,No,Normal,Measles,No,Normal,Normal,Normal,2?5km,Three times,Yes
+5,Female,Mutara,Tertiary,No,Normal,No,No,Normal,DPT,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Once,No
+5,Female,Mutara,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Once,No
+5,Female,Mutara,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Once,No
+10,Female,Mayanga,Tertiary,Yes,Sickle Cell,No,Yes,Malaria,BCG,Yes,Swelling,More than 5 days,No,Less than 2km,Twice,No
+10,Female,Mayanga,Tertiary,Yes,Sickle Cell,No,Yes,Malaria,Other,Yes,Swelling,More than 5 days,No,Less than 2km,Twice,No
+4,Male,Kanyabwanga,Tertiary,Yes,Asthma,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Male,Kanyabwanga,Tertiary,Yes,Asthma,No,No,Normal,Polio,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Male,Kanyabwanga,Tertiary,Yes,Asthma,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+4,Male,Kanyabwanga,Tertiary,Yes,Asthma,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Once,Yes
+6,Female,Mitooma,Below Primary,Yes,Other,No,No,Normal,Measles,Yes,Fever,More than 5 days,No,2?5km,Rarely,Yes
+6,Female,Mitooma,Below Primary,Yes,Other,No,No,Normal,Polio,Yes,Fever,More than 5 days,No,2?5km,Rarely,Yes
+6,Female,Mitooma,Below Primary,Yes,Other,No,No,Normal,Other,Yes,Fever,More than 5 days,No,2?5km,Rarely,Yes
+6,Female,Mitooma,Below Primary,Yes,Other,No,No,Normal,DPT,Yes,Fever,More than 5 days,No,2?5km,Rarely,Yes
+9,Male,Bitereko,Secondary,No,Normal,Yes,No,Normal,BCG,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+9,Male,Bitereko,Secondary,No,Normal,Yes,No,Normal,Measles,Yes,Seizures,More than 5 days,Yes,Less than 2km,Three times,Yes
+10,Male,Rutookye TC,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Other,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,No
+10,Male,Rutookye TC,Below Primary,Yes,Sickle Cell,Yes,No,Normal,Measles,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,No
+10,Male,Rutookye TC,Below Primary,Yes,Sickle Cell,Yes,No,Normal,DPT,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,No
+9,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Infection,Other,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+9,Female,Kashenshero TC,Primary,Yes,Heart Disease,Yes,Yes,Infection,DPT,Yes,Swelling,1 to 2 days,Yes,More than 5km,Twice,Yes
+8,Female,Bitereko,Primary,No,Normal,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,Yes,More than 5km,Rarely,Yes
+7,Female,Kabira,Primary,Yes,Other,No,Yes,Infection,Other,Yes,Seizures,More than 5 days,No,2?5km,Three times,Yes
+7,Female,Kabira,Primary,Yes,Other,No,Yes,Infection,DPT,Yes,Seizures,More than 5 days,No,2?5km,Three times,Yes
+7,Female,Kabira,Primary,Yes,Other,No,Yes,Infection,BCG,Yes,Seizures,More than 5 days,No,2?5km,Three times,Yes
+2,Female,Kabira,Below Primary,No,Normal,Yes,Yes,Malaria,Polio,Yes,Seizures,1 to 2 days,Yes,Less than 2km,Three times,Yes
+7,Female,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Swelling,More than 5 days,No,2?5km,Once,No
+7,Female,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Swelling,More than 5 days,No,2?5km,Once,No
+7,Female,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Swelling,More than 5 days,No,2?5km,Once,No
+7,Female,Mitooma TC,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Swelling,More than 5 days,No,2?5km,Once,No
+6,Female,Kashenshero TC,Tertiary,Yes,HIV_AIDS,No,Yes,Other,Measles,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+6,Female,Kashenshero TC,Tertiary,Yes,HIV_AIDS,No,Yes,Other,Other,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+6,Female,Kashenshero TC,Tertiary,Yes,HIV_AIDS,No,Yes,Other,DPT,Yes,Swelling,3 to 5 days,Yes,More than 5km,Once,No
+7,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Female,Rurehe,Tertiary,No,Normal,Yes,Yes,Other,Polio,No,Normal,Normal,Normal,Less than 2km,Three times,No
+7,Female,Bitereko,Below Primary,Yes,Asthma,Yes,Yes,Accident,DPT,No,Normal,Normal,Normal,2?5km,Once,Yes
+7,Female,Bitereko,Below Primary,Yes,Asthma,Yes,Yes,Accident,Polio,No,Normal,Normal,Normal,2?5km,Once,Yes
+7,Female,Bitereko,Below Primary,Yes,Asthma,Yes,Yes,Accident,Measles,No,Normal,Normal,Normal,2?5km,Once,Yes
+1,Female,Mutara,Secondary,No,Normal,Yes,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+1,Female,Mutara,Secondary,No,Normal,Yes,Yes,Malaria,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+1,Female,Mutara,Secondary,No,Normal,Yes,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+1,Female,Mutara,Secondary,No,Normal,Yes,Yes,Malaria,Polio,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+6,Male,Kiyanga,Below Primary,Yes,Sickle Cell,No,Yes,Accident,BCG,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+6,Male,Kiyanga,Below Primary,Yes,Sickle Cell,No,Yes,Accident,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+11,Male,Bitereko,Secondary,No,Normal,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,Yes
+10,Female,Mayanga,Tertiary,Yes,Heart Disease,No,Yes,Malaria,DPT,Yes,Seizures,1 to 2 days,No,More than 5km,Rarely,Yes
+4,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Infection,Other,No,Normal,Normal,Normal,More than 5km,Three times,No
+4,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Infection,BCG,No,Normal,Normal,Normal,More than 5km,Three times,No
+4,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Infection,Measles,No,Normal,Normal,Normal,More than 5km,Three times,No
+4,Male,Katenga,Secondary,Yes,Heart Disease,No,Yes,Infection,DPT,No,Normal,Normal,Normal,More than 5km,Three times,No
+1,Male,Katenga,Below Primary,No,Normal,No,Yes,Accident,DPT,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+1,Male,Katenga,Below Primary,No,Normal,No,Yes,Accident,BCG,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+1,Male,Katenga,Below Primary,No,Normal,No,Yes,Accident,Measles,No,Normal,Normal,Normal,More than 5km,Three times,Yes
+12,Female,Rurehe,Secondary,Yes,Other,No,No,Normal,Measles,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+12,Female,Rurehe,Secondary,Yes,Other,No,No,Normal,BCG,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+12,Female,Rurehe,Secondary,Yes,Other,No,No,Normal,Polio,Yes,Fever,More than 5 days,No,Less than 2km,Three times,Yes
+8,Male,Mutara,Below Primary,No,Normal,No,No,Normal,BCG,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,No
+8,Male,Mutara,Below Primary,No,Normal,No,No,Normal,Measles,Yes,Swelling,Less than 24 hours,Yes,Less than 2km,Rarely,No
+5,Female,Katenga,Primary,No,Normal,No,No,Normal,Measles,Yes,Vomiting,Less than 24 hours,Yes,More than 5km,Once,Yes
+6,Female,Katenga,Secondary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,Less than 2km,Once,Yes
+6,Female,Katenga,Secondary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Seizures,3 to 5 days,No,Less than 2km,Once,Yes
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Other,Yes,Other,Less than 24 hours,Yes,2?5km,Three times,No
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Other,Less than 24 hours,Yes,2?5km,Three times,No
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Other,Less than 24 hours,Yes,2?5km,Three times,No
+7,Female,Rutookye TC,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Other,Less than 24 hours,Yes,2?5km,Three times,No
+11,Male,Kashenshero,Below Primary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Rash,1 to 2 days,No,More than 5km,Twice,Yes
+7,Male,Kashenshero TC,Secondary,No,Normal,Yes,Yes,Accident,Other,Yes,Other,More than 5 days,Yes,2?5km,Rarely,No
+7,Male,Kashenshero TC,Secondary,No,Normal,Yes,Yes,Accident,BCG,Yes,Other,More than 5 days,Yes,2?5km,Rarely,No
+7,Male,Kashenshero TC,Secondary,No,Normal,Yes,Yes,Accident,Measles,Yes,Other,More than 5 days,Yes,2?5km,Rarely,No
+3,Male,Rutookye TC,Tertiary,Yes,HIV_AIDS,No,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,No
+3,Male,Rutookye TC,Tertiary,Yes,HIV_AIDS,No,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,No
+3,Male,Rutookye TC,Tertiary,Yes,HIV_AIDS,No,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,No
+2,Female,Mitooma,Secondary,Yes,Other,No,Yes,Other,Other,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Mitooma,Secondary,Yes,Other,No,Yes,Other,Measles,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+2,Female,Mitooma,Secondary,Yes,Other,No,Yes,Other,Polio,No,Normal,Normal,Normal,More than 5km,Twice,Yes
+5,Female,Kashenshero TC,Primary,No,Normal,No,Yes,Accident,Other,Yes,Vomiting,1 to 2 days,Yes,2?5km,Three times,No
+5,Female,Kashenshero TC,Primary,No,Normal,No,Yes,Accident,BCG,Yes,Vomiting,1 to 2 days,Yes,2?5km,Three times,No
+1,Male,Kiyanga,Tertiary,No,Normal,No,Yes,Malaria,Polio,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,Yes
+1,Male,Kiyanga,Tertiary,No,Normal,No,Yes,Malaria,Other,Yes,Swelling,3 to 5 days,Yes,2?5km,Once,Yes
+3,Male,Kanyabwanga,Below Primary,Yes,Asthma,Yes,Yes,Other,Measles,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Kanyabwanga,Below Primary,Yes,Asthma,Yes,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Kanyabwanga,Below Primary,Yes,Asthma,Yes,Yes,Other,DPT,No,Normal,Normal,Normal,Less than 2km,Once,No
+3,Male,Kanyabwanga,Below Primary,Yes,Asthma,Yes,Yes,Other,BCG,No,Normal,Normal,Normal,Less than 2km,Once,No
+10,Male,Rurehe,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Male,Rurehe,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,Other,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Male,Rurehe,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,DPT,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Male,Rurehe,Below Primary,Yes,Sickle Cell,No,Yes,Malaria,BCG,No,Normal,Normal,Normal,More than 5km,Once,Yes
+10,Male,Kabira,Primary,Yes,HIV_AIDS,No,Yes,Infection,DPT,Yes,Fever,More than 5 days,Yes,2?5km,Twice,Yes
+10,Male,Kabira,Primary,Yes,HIV_AIDS,No,Yes,Infection,Measles,Yes,Fever,More than 5 days,Yes,2?5km,Twice,Yes
+10,Male,Kabira,Primary,Yes,HIV_AIDS,No,Yes,Infection,BCG,Yes,Fever,More than 5 days,Yes,2?5km,Twice,Yes
+1,Male,Mitooma TC,Tertiary,Yes,Heart Disease,Yes,No,Normal,DPT,Yes,Fever,More than 5 days,Yes,2?5km,Rarely,No
+12,Male,Bitereko,Primary,Yes,Asthma,Yes,No,Normal,Other,Yes,Fever,3 to 5 days,No,More than 5km,Twice,No
+12,Male,Bitereko,Primary,Yes,Asthma,Yes,No,Normal,Polio,Yes,Fever,3 to 5 days,No,More than 5km,Twice,No
+12,Male,Bitereko,Primary,Yes,Asthma,Yes,No,Normal,DPT,Yes,Fever,3 to 5 days,No,More than 5km,Twice,No
+12,Male,Bitereko,Primary,Yes,Asthma,Yes,No,Normal,BCG,Yes,Fever,3 to 5 days,No,More than 5km,Twice,No
+8,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Polio,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,No
+8,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Other,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,No
+8,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,Measles,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,No
+8,Female,Mayanga,Tertiary,No,Normal,No,No,Normal,BCG,Yes,Seizures,Less than 24 hours,No,Less than 2km,Once,No
+4,Female,Mitooma,Secondary,No,Normal,No,No,Normal,Polio,No,Normal,Normal,Normal,More than 5km,Twice,No
+4,Female,Mitooma,Secondary,No,Normal,No,No,Normal,BCG,No,Normal,Normal,Normal,More than 5km,Twice,No
+10,Male,Bitereko,Primary,No,Normal,No,No,Normal,DPT,Yes,Seizures,3 to 5 days,No,2?5km,Once,Yes
+10,Male,Bitereko,Primary,No,Normal,No,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,2?5km,Once,Yes
+5,Male,Kiyanga,Secondary,No,Normal,No,Yes,Other,Polio,Yes,Fever,3 to 5 days,No,2?5km,Rarely,No
+5,Male,Kiyanga,Secondary,No,Normal,No,Yes,Other,Measles,Yes,Fever,3 to 5 days,No,2?5km,Rarely,No
+5,Male,Kiyanga,Secondary,No,Normal,No,Yes,Other,DPT,Yes,Fever,3 to 5 days,No,2?5km,Rarely,No
+5,Male,Kiyanga,Secondary,No,Normal,No,Yes,Other,BCG,Yes,Fever,3 to 5 days,No,2?5km,Rarely,No
+9,Female,Rutookye TC,Secondary,Yes,Heart Disease,Yes,Yes,Other,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+8,Female,Mutara,Primary,Yes,Other,No,No,Normal,DPT,Yes,Seizures,More than 5 days,No,2?5km,Three times,No
+8,Female,Mutara,Primary,Yes,Other,No,No,Normal,Measles,Yes,Seizures,More than 5 days,No,2?5km,Three times,No
+8,Female,Mutara,Primary,Yes,Other,No,No,Normal,Polio,Yes,Seizures,More than 5 days,No,2?5km,Three times,No
+8,Female,Mutara,Primary,Yes,Other,No,No,Normal,Other,Yes,Seizures,More than 5 days,No,2?5km,Three times,No
+2,Male,Mutara,Secondary,Yes,Other,No,No,Normal,BCG,Yes,Swelling,3 to 5 days,No,2?5km,Three times,Yes
+6,Female,Kashenshero TC,Below Primary,No,Normal,Yes,Yes,Malaria,Other,Yes,Fever,3 to 5 days,No,More than 5km,Three times,No
+6,Female,Kashenshero TC,Below Primary,No,Normal,Yes,Yes,Malaria,BCG,Yes,Fever,3 to 5 days,No,More than 5km,Three times,No
+6,Female,Kashenshero TC,Below Primary,No,Normal,Yes,Yes,Malaria,Measles,Yes,Fever,3 to 5 days,No,More than 5km,Three times,No
+6,Female,Kashenshero TC,Below Primary,No,Normal,Yes,Yes,Malaria,Polio,Yes,Fever,3 to 5 days,No,More than 5km,Three times,No
+12,Male,Rutookye TC,Secondary,Yes,Asthma,Yes,No,Normal,BCG,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+12,Male,Rutookye TC,Secondary,Yes,Asthma,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+12,Male,Rutookye TC,Secondary,Yes,Asthma,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+12,Male,Rutookye TC,Secondary,Yes,Asthma,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Three times,Yes
+11,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Three times,No
+11,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Three times,No
+11,Male,Kashenshero,Tertiary,Yes,HIV_AIDS,Yes,No,Normal,Measles,Yes,Swelling,3 to 5 days,Yes,Less than 2km,Three times,No
+6,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,Measles,Yes,Other,More than 5 days,No,More than 5km,Three times,No
+6,Female,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Malaria,DPT,Yes,Other,More than 5 days,No,More than 5km,Three times,No
+3,Female,Mutara,Primary,No,Normal,No,No,Normal,Other,Yes,Swelling,Less than 24 hours,Yes,More than 5km,Three times,No
+1,Male,Katenga,Secondary,Yes,HIV_AIDS,Yes,No,Normal,Polio,Yes,Seizures,3 to 5 days,No,2?5km,Once,Yes
+1,Male,Katenga,Secondary,Yes,HIV_AIDS,Yes,No,Normal,Other,Yes,Seizures,3 to 5 days,No,2?5km,Once,Yes
+4,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,No,Yes,Malaria,Polio,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+4,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,No,Yes,Malaria,Other,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+4,Male,Mitooma TC,Tertiary,Yes,Sickle Cell,No,Yes,Malaria,Measles,No,Normal,Normal,Normal,Less than 2km,Twice,Yes
+7,Female,Kanyabwanga,Primary,Yes,Other,No,Yes,Accident,Measles,Yes,Rash,1 to 2 days,Yes,Less than 2km,Three times,No
+7,Female,Kanyabwanga,Primary,Yes,Other,No,Yes,Accident,BCG,Yes,Rash,1 to 2 days,Yes,Less than 2km,Three times,No
+6,Female,Kabira,Primary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+6,Female,Kabira,Primary,Yes,Heart Disease,Yes,No,Normal,Other,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+6,Female,Kabira,Primary,Yes,Heart Disease,Yes,No,Normal,Measles,No,Normal,Normal,Normal,Less than 2km,Rarely,No
+2,Female,Kashenshero TC,Tertiary,No,Normal,Yes,Yes,Accident,Polio,Yes,Other,1 to 2 days,No,Less than 2km,Three times,No
+6,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,BCG,Yes,Swelling,1 to 2 days,No,Less than 2km,Three times,Yes
+6,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,Measles,Yes,Swelling,1 to 2 days,No,Less than 2km,Three times,Yes
+6,Male,Kashenshero TC,Secondary,Yes,Other,No,No,Normal,Other,Yes,Swelling,1 to 2 days,No,Less than 2km,Three times,Yes
+9,Male,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Other,Other,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+9,Male,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Other,DPT,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+9,Male,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Other,BCG,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+9,Male,Kanyabwanga,Secondary,No,Normal,Yes,Yes,Other,Polio,Yes,Rash,Less than 24 hours,No,Less than 2km,Once,Yes
+4,Male,Mutara,Primary,Yes,Heart Disease,Yes,No,Normal,Polio,No,Normal,Normal,Normal,2?5km,Twice,Yes
+4,Male,Mutara,Primary,Yes,Heart Disease,Yes,No,Normal,DPT,No,Normal,Normal,Normal,2?5km,Twice,Yes
+3,Male,Mutara,Tertiary,No,Normal,Yes,No,Normal,Measles,Yes,Fever,Less than 24 hours,No,2?5km,Twice,No
+3,Male,Mutara,Tertiary,No,Normal,Yes,No,Normal,BCG,Yes,Fever,Less than 24 hours,No,2?5km,Twice,No
+3,Male,Mutara,Tertiary,No,Normal,Yes,No,Normal,Polio,Yes,Fever,Less than 24 hours,No,2?5km,Twice,No
+3,Male,Mutara,Tertiary,No,Normal,Yes,No,Normal,DPT,Yes,Fever,Less than 24 hours,No,2?5km,Twice,No
+9,Male,Kabira,Primary,Yes,Other,Yes,No,Normal,Other,No,Normal,Normal,Normal,More than 5km,Once,No
+9,Male,Kabira,Primary,Yes,Other,Yes,No,Normal,Measles,No,Normal,Normal,Normal,More than 5km,Once,No
