@@ -1,0 +1,1404 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+15/02/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,347.23,0.1918
+15/03/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1133.91,0.6237
+15/04/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,393.8,0.2153
+15/04/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1074,0.5873
+15/05/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,429.6,0.24
+15/05/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1292.38,0.722
+15/06/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,395.99,0.2212
+15/06/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1258.17,0.7029
+15/07/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,300.63,0.1617
+15/07/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1109.58,0.5968
+15/08/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,216.57,0.1187
+15/08/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1098.45,0.6019
+15/09/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1134.14,0.6214
+15/10/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,271.91,0.1477
+15/10/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1140.96,0.6197
+15/12/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,337.11,0.1894
+15/12/2006,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1244.98,0.6994
+15/02/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,259.06,0.1485
+15/02/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1229.14,0.7044
+15/04/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,241.13,0.1388
+15/04/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1154.92,0.665
+15/05/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,249.62,0.1481
+15/05/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1140.15,0.6766
+15/06/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,222.75,0.135
+15/07/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,228.78,0.1408
+15/08/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,824.04,0.489
+15/09/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,851.94,0.4817
+15/10/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,208.5,0.1209
+15/10/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,980.43,0.5684
+15/11/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,254.69,0.1512
+15/12/2007,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1055.7,0.6143
+15/01/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1150.65,0.6849
+15/01/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,996.01,0.5929
+15/02/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,289.62,0.1688
+15/03/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,343,0.2026
+15/03/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1121.69,0.6626
+15/03/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1075.24,0.6352
+15/04/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,404.27,0.2421
+15/04/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1407.28,0.8427
+15/04/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1201.13,0.7192
+15/05/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1550.1,0.9338
+15/06/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1415.31,0.8716
+15/06/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1146.21,0.7059
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,700,0.4321
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,560.67,0.3461
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1541.3,0.9514
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1054.29,0.6508
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,266.25,0.1644
+15/07/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,206.25,0.1273
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,715.38,0.4428
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,576.15,0.3566
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,415.88,0.2574
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1217.66,0.7537
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,310,0.1919
+15/08/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,266.15,0.1647
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,744.44,0.461
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,596.67,0.3695
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,494.57,0.3062
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1749.65,1.0834
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1358.81,0.8414
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,351.11,0.2174
+15/09/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,308.89,0.1913
+15/10/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,553,0.3234
+15/10/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,604.89,0.3537
+15/10/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1174.88,0.6871
+15/10/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,425,0.2485
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,787.5,0.4086
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,642.79,0.3335
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1505.25,0.781
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1408.33,0.7307
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,948.89,0.4923
+15/11/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,385.45,0.2
+15/12/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,605.78,0.3083
+15/12/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1342.35,0.6831
+15/12/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1400,0.7125
+15/12/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,412.5,0.2099
+15/12/2008,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,370.63,0.1886
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,776.92,0.3916
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,646.92,0.3261
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,503.45,0.2537
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1406.92,0.7091
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1500,0.756
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,395,0.1991
+15/01/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,346.15,0.1745
+15/02/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,800,0.4043
+15/02/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1105.84,0.5588
+15/03/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,800,0.3908
+15/03/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,606.92,0.2965
+15/03/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1476.11,0.7211
+15/03/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,619.23,0.3025
+15/03/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,535,0.2614
+15/04/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,800.91,0.3814
+15/04/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1623.73,0.7732
+15/04/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1454.55,0.6926
+15/04/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,466.36,0.2221
+15/05/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,894.44,0.4094
+15/05/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,715.92,0.3277
+15/05/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1757.69,0.8044
+15/06/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1130.77,0.5272
+15/06/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1701.72,0.7933
+15/06/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1584.62,0.7388
+15/06/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1148.86,0.5356
+15/06/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,361.92,0.1687
+15/07/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1100,0.5164
+15/07/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1538.46,0.7223
+15/07/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,561.92,0.2638
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,890.71,0.4281
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1634.1,0.7853
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1807.14,0.8685
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1160.14,0.5575
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,440,0.2115
+15/08/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,385.71,0.1854
+15/09/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1076.92,0.5523
+15/09/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,873.08,0.4477
+15/09/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2069.23,1.0611
+15/09/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,539.64,0.2767
+15/10/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,833.08,0.4339
+15/10/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1753.85,0.9135
+15/10/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1387.71,0.7228
+15/10/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,656.92,0.3421
+15/11/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,796.36,0.4242
+15/11/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1527.27,0.8136
+15/11/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1392.9,0.742
+15/11/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,690.91,0.368
+15/11/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,574.55,0.3061
+15/12/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,822.5,0.4343
+15/12/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1757.19,0.9279
+15/12/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1400,0.7393
+15/12/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,745.83,0.3938
+15/12/2009,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,647.08,0.3417
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,975,0.5039
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,725,0.3747
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1225,0.6331
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1707.94,0.8827
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1320,0.6822
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1067.77,0.5518
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,647.27,0.3345
+15/01/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,551.82,0.2852
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,590.91,0.2955
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,850,0.425
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1372.73,0.6864
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1003.1,0.5015
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,499.09,0.2495
+15/02/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,414,0.207
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,599.29,0.3216
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,291.88,0.1567
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1000,0.5367
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1736.46,0.932
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1485.71,0.7974
+15/03/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,455.36,0.2444
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,609.09,0.2928
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,800,0.3846
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,850,0.4087
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1753.84,0.8432
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1690.91,0.8129
+15/04/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1193.96,0.574
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,538.46,0.2487
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,769.23,0.3554
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,305.42,0.1411
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1759.91,0.813
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1807.69,0.8351
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,432.31,0.1997
+15/05/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,344.23,0.159
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,475,0.2154
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,462.5,0.2097
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,275.93,0.1251
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,775,0.3514
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1673.32,0.7587
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1550,0.7028
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,922.69,0.4184
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,350.83,0.1591
+15/06/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,260.83,0.1183
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,400,0.1804
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,608.33,0.2743
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,800,0.3608
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1516.66,0.684
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1608.33,0.7253
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,960.67,0.4332
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,338.33,0.1526
+15/07/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,249.17,0.1124
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,500,0.2222
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,430.77,0.1914
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,553.85,0.2461
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,236.35,0.105
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,762.5,0.3389
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1753.57,0.7793
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1296.76,0.5763
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,366.15,0.1627
+15/08/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,276.15,0.1227
+15/09/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,633.33,0.2862
+15/09/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,438.46,0.1981
+15/09/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,597.69,0.2701
+15/09/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,766.67,0.3464
+15/09/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,381.25,0.1723
+15/10/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,676.92,0.3037
+15/10/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,800,0.359
+15/10/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1800,0.8077
+15/10/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,491.67,0.2206
+15/10/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,398,0.1786
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,600,0.2659
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,415.38,0.184
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,715.38,0.317
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,950,0.4209
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1310.97,0.5809
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1592.31,0.7055
+15/11/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,576.15,0.2553
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,900,0.3954
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,450.38,0.1979
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,700,0.3075
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,444.93,0.1955
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1000,0.4393
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1449.22,0.6367
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1322.49,0.581
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,636.54,0.2797
+15/12/2010,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,544.62,0.2393
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,539.46,0.234
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1150,0.4988
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1440.16,0.6246
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1678.57,0.728
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1290.36,0.5597
+15/01/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,583.21,0.253
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,500,0.2138
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,416.67,0.1782
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,600,0.2566
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,474.8,0.203
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1100,0.4704
+15/02/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1411.58,0.6036
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,650,0.2716
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.4179
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,665,0.2779
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,1785.04,0.7459
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2040.91,0.8528
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1620.88,0.6773
+15/03/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,601.36,0.2513
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,750,0.32
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1050,0.448
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,647.17,0.2761
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1000,0.4267
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,800,0.3413
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1600,0.6827
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1794.16,0.7655
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,848.89,0.3622
+15/04/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,675.56,0.2882
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.4197
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,658.57,0.2764
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1150,0.4827
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1700,0.7136
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1075,0.4512
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2232.09,0.9369
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,845,0.3547
+15/05/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,555,0.233
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,650,0.2721
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,733.33,0.3069
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1800,0.7534
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1100,0.4604
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2215.44,0.9273
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.4186
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2014.53,0.8432
+15/06/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,430,0.18
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3952
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,750,0.2964
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,950,0.3754
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1191.26,0.4708
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1075,0.4248
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2188,0.8647
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2245.48,0.8874
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1150,0.4545
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1438,0.5683
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2012.04,0.7951
+15/07/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,425,0.168
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,933,0.341
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,728.57,0.2663
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1033.92,0.3778
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,767,0.2803
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1529,0.5588
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2096.53,0.7662
+15/08/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,584.29,0.2135
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1100,0.4
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,900,0.3272
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1200,0.4363
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,657.5,0.2391
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1350,0.4909
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2655.81,0.9656
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.3636
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1500,0.5454
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1651.79,0.6006
+15/09/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,754,0.2742
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1019,0.3742
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,903.33,0.3317
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1200,0.4406
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,645.21,0.2369
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,815,0.2993
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1400,0.5141
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1231,0.452
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1105,0.4058
+15/10/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1487,0.546
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1128,0.4413
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,900,0.3521
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,745.29,0.2916
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,824,0.3224
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1365,0.534
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2938.37,1.1496
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1510,0.5907
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,875.25,0.3424
+15/11/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,693.4,0.2713
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1233,0.5256
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,850,0.3623
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,594.51,0.2534
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,867,0.3696
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1400,0.5968
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2781.36,1.1857
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1050,0.4476
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1336.39,0.5697
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,983.5,0.4193
+15/12/2011,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,716.5,0.3054
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.4147
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,575.38,0.2386
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1400,0.5805
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1219,0.5055
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3031.71,1.2572
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,900,0.3732
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,808.4,0.3352
+15/01/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,585,0.2426
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1034,0.4526
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,858.5,0.3758
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1150,0.5034
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,591.35,0.2589
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,712,0.3117
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1417,0.6203
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3159.1,1.3828
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1650,0.7223
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,617,0.2701
+15/02/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,433,0.1895
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1100,0.4514
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1150,0.472
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,687.01,0.282
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,750,0.3078
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1434,0.5885
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3284.89,1.3481
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1746,0.7166
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,805.33,0.3305
+15/03/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,591.67,0.2428
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1225,0.4876
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,950,0.3782
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1250,0.4976
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,906.37,0.3608
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1054,0.4196
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1621,0.6453
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2650,1.0549
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2218.59,0.8832
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,987.5,0.3931
+15/04/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,695.5,0.2769
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1275,0.5194
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1183.25,0.482
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1450,0.5907
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2075,0.8452
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1733,0.7059
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,800,0.3259
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2775,1.1304
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2666.14,1.086
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,975,0.3972
+15/05/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,750,0.3055
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1300,0.5297
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1105.67,0.4505
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,974.9,0.3972
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1200,0.489
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1800,0.7334
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2751.89,1.1213
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,800,0.326
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1795.98,0.7318
+15/06/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,727.67,0.2965
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1458,0.589
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.606
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,943.47,0.3811
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1025,0.4141
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2017,0.8148
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2624.84,1.0603
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1650,0.6665
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,691.5,0.2793
+15/07/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,466.5,0.1885
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.6131
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1200,0.4905
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1150,0.4701
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,670.35,0.274
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,856,0.3499
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.8175
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1083,0.4427
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1689,0.6904
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1570.07,0.6418
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,683,0.2792
+15/08/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,550,0.2248
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1467,0.5806
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1191.75,0.4716
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,950,0.376
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,792,0.3134
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.7915
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1650,0.653
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1092,0.4322
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2067,0.818
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1788.39,0.7077
+15/09/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,916.75,0.3628
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1375,0.5375
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1183.25,0.4625
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1397,0.5461
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2805.59,1.0967
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1075,0.4202
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1815,0.7095
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1542.7,0.603
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,3791.75,1.4822
+15/10/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,3291.75,1.2867
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1234,0.4798
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1200,0.4666
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1350,0.5249
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,656.57,0.2553
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1425,0.554
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2941.71,1.1437
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1492,0.5801
+15/11/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,3333.67,1.2961
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1300,0.4838
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1166.5,0.4341
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,749.57,0.2789
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,884,0.329
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1750,0.6512
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2970.13,1.1053
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1617,0.6017
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1444.69,0.5376
+15/12/2012,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,2583,0.9612
+15/01/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1300,0.4914
+15/01/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,900,0.3402
+15/01/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1900,0.7182
+15/01/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1663.56,0.6288
+15/01/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,4050,1.5309
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1300,0.4999
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,900,0.3461
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1100,0.423
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,773.5,0.2974
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.7691
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1350,0.5191
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,800,0.3076
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1642.79,0.6317
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,2333,0.8971
+15/02/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1500,0.5768
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1183.3,0.4551
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.3846
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.3846
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1866.7,0.718
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3123.5,1.2014
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1033.3,0.3974
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2350,0.9039
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1746.81,0.6719
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,2625,1.0097
+15/03/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,2125,0.8173
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1279.3,0.5124
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1050,0.4205
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,796.85,0.3191
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.4005
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1804.3,0.7226
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2849.98,1.1415
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,983.5,0.3939
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2408.5,0.9646
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,2966.5,1.1881
+15/04/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,2083.5,0.8345
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1044.33,0.4112
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.3937
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,661.05,0.2603
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,900,0.3544
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1750,0.689
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1511.8,0.5952
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,977.3,0.3848
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1787.23,0.7037
+15/05/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,3055.67,1.2031
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1183.3,0.4562
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,656.64,0.2531
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.3855
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1483.3,0.5718
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1033.3,0.3984
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2350,0.906
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1460.12,0.5629
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1833.25,0.7068
+15/06/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1333.25,0.514
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,928.4,0.363
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,693.82,0.2712
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,894.6,0.3497
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,755,0.2952
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1893.4,0.7402
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1628.9,0.6368
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1725,0.6744
+15/07/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1208.25,0.4724
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1075,0.4272
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,800,0.3179
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,800,0.3179
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,683.57,0.2716
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,916.75,0.3643
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1622.75,0.6449
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3017.36,1.1991
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,750,0.298
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2300,0.914
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1845.05,0.7332
+15/08/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,2979.25,1.1839
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,800,0.3106
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1467,0.5696
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,866.5,0.3364
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2262.3,0.8784
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,3833.25,1.4883
+15/09/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,3250,1.2618
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3997
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,750,0.2998
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,776.18,0.3103
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,775,0.3098
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1642,0.6564
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2829.49,1.131
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,804,0.3214
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1905.07,0.7615
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,4000,1.5989
+15/10/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,3500,1.399
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,800,0.3237
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.8091
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1400,0.5664
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1125,0.4551
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1517,0.6137
+15/11/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1443.26,0.5839
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,794.33,0.3144
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1184,0.4687
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.7917
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1400,0.5542
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2748.1,1.0879
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1617,0.6401
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,6055.67,2.3972
+15/12/2013,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,5166.67,2.0453
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,967,0.3915
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,925,0.3745
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,900,0.3644
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,658.24,0.2665
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1361,0.551
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2523.53,1.0216
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,917,0.3712
+15/01/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,3958.25,1.6025
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,809,0.3225
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,900,0.3587
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,900,0.3587
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,668.4,0.2664
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1567,0.6246
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1375,0.5481
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2719.35,1.0839
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2000,0.7972
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1714.87,0.6835
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,3667,1.4616
+15/02/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,3167,1.2623
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,929,0.3652
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,700,0.2752
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1450,0.5701
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2856.53,1.123
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,721,0.2835
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2292,0.9011
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2062.69,0.8109
+15/03/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,675,0.2654
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.403
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.6045
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,815.87,0.3288
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2753.62,1.1097
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,840,0.3385
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2290,0.9228
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1030,0.4151
+15/04/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,740,0.2982
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3997
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,800,0.3197
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.3997
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,852.29,0.3406
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.3997
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.7993
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1675,0.6694
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,825,0.3297
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2525,1.0092
+15/05/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,787.5,0.3147
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,967,0.375
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,937.5,0.3636
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,800,0.3102
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,853.1,0.3308
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,983,0.3812
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.7756
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2663.02,1.0327
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1583,0.6139
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1425.23,0.5527
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,725,0.2811
+15/06/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,575,0.223
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,700,0.2689
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,711.13,0.2732
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,750,0.2881
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1980,0.7606
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2621.36,1.007
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1737.5,0.6674
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1710,0.6569
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1374.66,0.5281
+15/07/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,730,0.2804
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3894
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,550,0.2142
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1525,0.5938
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1975,0.7691
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2731.69,1.0637
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1925,0.7496
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1706.2,0.6644
+15/08/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,787.5,0.3067
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3889
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1000,0.3889
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.7778
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1492.37,0.5804
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1130,0.4394
+15/09/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,990,0.385
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3836
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1000,0.3836
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,550,0.211
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.3836
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1463,0.5612
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1983,0.7607
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2320.36,0.8901
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1426.67,0.5473
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1262.5,0.4843
+15/10/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1075,0.4124
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1012.5,0.369
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,962.5,0.3508
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,465.62,0.1697
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,950,0.3463
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1487.5,0.5422
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1987.5,0.7244
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2423.96,0.8835
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1800,0.6561
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1215.8,0.4431
+15/11/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1237.5,0.451
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1000,0.3649
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,800,0.2919
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,461.56,0.1684
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1500,0.5473
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2418.01,0.8823
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1800,0.6568
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1429,0.5214
+15/12/2014,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1000,0.3649
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,800,0.28
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2414.15,0.845
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.35
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.7501
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2000,0.7001
+15/01/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,900,0.315
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,500,0.1735
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,496.79,0.1724
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1600,0.5553
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2461.36,0.8542
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.347
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2400,0.8329
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1730.83,0.6007
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,700,0.2429
+15/02/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,550,0.1909
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,601.09,0.2051
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.3412
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.7058
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2500,0.8529
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2157.58,0.7361
+15/03/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,766.67,0.2616
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,950,0.3209
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,803.39,0.2714
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.5067
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1800,0.608
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.6756
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.689
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4000,1.3512
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2839.1,0.9591
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1183.33,0.3997
+15/04/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,966.67,0.3265
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1200,0.4057
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,828.09,0.2799
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.5071
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1800,0.6085
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2667,0.9016
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3028.16,1.0237
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.8451
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.6903
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4333,1.4648
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,3410.76,1.153
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1062.5,0.3592
+15/05/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,900,0.3042
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1200,0.3817
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.318
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.6361
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.6361
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.5902
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1814.53,0.5771
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,910,0.2894
+15/06/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,730,0.2322
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,878.72,0.2676
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1350,0.411
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1950,0.5937
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3014.81,0.9179
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.609
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5375,1.6366
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2100,0.6394
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1806.17,0.5499
+15/07/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,775,0.236
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,962.5,0.272
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,600,0.1696
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1200,0.3391
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1750,0.4946
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.5652
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.5652
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5375,1.5191
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2325,0.6571
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1050,0.2967
+15/08/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,850,0.2402
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1200,0.3307
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,920,0.2535
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,700,0.1929
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1133,0.3122
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.3778
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2500,0.6889
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2224.13,0.6129
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1360,0.3747
+15/09/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1130,0.3114
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1267,0.3487
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,912.5,0.2511
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.2752
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,825.82,0.2273
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1733,0.4769
+15/10/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2683.24,0.7384
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,897.05,0.2594
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.5783
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2941.93,0.8506
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.5783
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.4456
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2500,0.7228
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1387.5,0.4012
+15/11/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1175,0.3397
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1413,0.4145
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,950,0.2787
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.2933
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,954.09,0.2799
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2125,0.6233
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3194.61,0.9371
+15/12/2015,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1050,0.308
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4373
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,900,0.2624
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,850,0.2478
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,648.97,0.1892
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.5831
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3006.27,0.8764
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2167,0.6317
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.4576
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2567,0.7484
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2301.55,0.671
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1300,0.379
+15/01/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1030,0.3003
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1425,0.4224
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,743.63,0.2204
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1275,0.3779
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1817,0.5386
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1100,0.326
+15/02/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,880,0.2608
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1400,0.422
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1250,0.3768
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1867,0.5627
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.6028
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3102.53,0.9351
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.6028
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.5071
+15/03/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3000,0.9042
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1400,0.4246
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,837.11,0.2539
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1250,0.3791
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1845,0.5595
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.6065
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3159.5,0.9582
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.6065
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.5163
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2955,0.8962
+15/04/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2313.58,0.7016
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1444,0.4318
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,923.31,0.2761
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1933,0.578
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2000,0.598
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,4967,1.4852
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2967,0.8872
+15/05/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2500.23,0.7476
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1458,0.4427
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,947.42,0.2877
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1325,0.4023
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1958,0.5945
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.6073
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2753.83,0.8362
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.5182
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2517,0.7643
+15/06/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2098.19,0.6371
+15/07/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4472
+15/07/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,805.8,0.2402
+15/07/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1300,0.3876
+15/07/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.5962
+15/07/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2802.37,0.8354
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4511
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1030,0.3097
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,950,0.2857
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,810.18,0.2436
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1250,0.3759
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.6014
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2330.85,0.7009
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,950,0.2857
+15/08/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,750,0.2255
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4497
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1275,0.3822
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2017,0.6047
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2125,0.6371
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.499
+15/09/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2925,0.8769
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4379
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1037.5,0.3029
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.2919
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,998.87,0.2916
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1450,0.4233
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2175,0.6349
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2150,0.6276
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.4596
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2392.04,0.6983
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1337.5,0.3904
+15/10/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1137.5,0.3321
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1050,0.2973
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1180.97,0.3343
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2267,0.6418
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2233,0.6322
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.4155
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2522,0.714
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2105.03,0.596
+15/11/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1400,0.3964
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1566,0.4405
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1120,0.315
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1320,0.3713
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1235.24,0.3474
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2378,0.6688
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2267,0.6376
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3222.23,0.9063
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2300,0.6469
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5133,1.4437
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2911,0.8188
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1490,0.4191
+15/12/2016,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1270,0.3572
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4167
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1133.33,0.3148
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.4167
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1204.29,0.3345
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1700,0.4722
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2500,0.6945
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2400,0.6667
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3010.73,0.8363
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.6945
+15/01/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2663.46,0.7399
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1600,0.4534
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1387.5,0.3932
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.425
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2567,0.7274
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2500,0.7084
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3074.27,0.8711
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.7084
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5200,1.4735
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3267,0.9257
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,987.5,0.2798
+15/02/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,825,0.2338
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1559,0.4433
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1450,0.4123
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.4265
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2500,0.7109
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3548.86,1.0092
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.7109
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5200,1.4787
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3425,0.974
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2992.11,0.8509
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1125,0.3199
+15/03/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,900,0.2559
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1767,0.4869
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1545.15,0.4257
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2845,0.7839
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3000,0.8266
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3658.09,1.0079
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.8266
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5433,1.4969
+15/04/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3644,1.004
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1500,0.4182
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.4182
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1654.86,0.4614
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2159,0.6019
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2950,0.8225
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3025,0.8434
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3410.01,0.9507
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2917,0.8133
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2767,0.7715
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1416.67,0.395
+15/05/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1216.67,0.3392
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1725,0.4863
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1433.33,0.4041
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1500,0.4229
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1033.88,0.2915
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2117,0.5968
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3134,0.8836
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3503.96,0.9879
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2500,0.7048
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2077.18,0.5856
+15/06/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,916.67,0.2584
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,859.69,0.2388
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1783,0.4952
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2617,0.7268
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3283,0.9118
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3542.85,0.984
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3350,0.9304
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2750,0.7638
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2340.33,0.65
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,950,0.2638
+15/07/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,750,0.2083
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1800,0.5041
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1500,0.4201
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1150,0.3221
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,897.2,0.2513
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2700,0.7562
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3658.05,1.0245
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.8402
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5500,1.5404
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2600,0.7282
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2412.1,0.6755
+15/08/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,987.5,0.2766
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1400,0.3934
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,1000,0.281
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.4215
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2300,0.6463
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3600,1.0117
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3500,0.9836
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5700,1.6018
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2700,0.7587
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2567.45,0.7215
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1125,0.3161
+15/09/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1000,0.281
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1800,0.4964
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1425,0.393
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,900,0.2482
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,829.48,0.2288
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3554.24,0.9802
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2900,0.7998
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2280.75,0.629
+15/10/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1100,0.3034
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1883.5,0.5198
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,753.74,0.208
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1441.5,0.3978
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3300,0.9107
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3445.99,0.951
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.8279
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5400,1.4902
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2450,0.6761
+15/11/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1866.04,0.515
+15/12/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3100,0.8621
+15/12/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3567.78,0.9922
+15/12/2017,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1919.26,0.5337
+15/01/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,782.15,0.2172
+15/01/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2400,0.6664
+15/01/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3545.68,0.9846
+15/01/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3100,0.8608
+15/01/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2400,0.6664
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2000,0.5559
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,740.88,0.2059
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1400,0.3891
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2200,0.6115
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3300,0.9173
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3200,0.8895
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5400,1.501
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2400,0.6671
+15/02/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1800.01,0.5003
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2000,0.5523
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,694.92,0.1919
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.4142
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.5523
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3505.97,0.9682
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5500,1.5188
+15/03/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2700,0.7456
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,710.44,0.192
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1400,0.3784
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.5405
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2500,0.6757
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3757.54,1.0155
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.3513
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3000,0.8108
+15/04/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1920.78,0.5191
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1600,0.4354
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,684.77,0.1863
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1400,0.381
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.5442
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2600,0.7075
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3939.15,1.0719
+15/05/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5000,1.3606
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.3943
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,722.44,0.1899
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.3943
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.5257
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3836.58,1.0085
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.7886
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5600,1.472
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2400,0.6309
+15/06/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1387.43,0.3647
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,650,0.1714
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,541.66,0.1428
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2062.5,0.5437
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1420.35,0.3744
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,775,0.2043
+15/07/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,625,0.1648
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4057
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1100,0.2975
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,530,0.1434
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,435.02,0.1177
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3355.41,0.9076
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1543.29,0.4174
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,940,0.2542
+15/08/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,790,0.2137
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.3957
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,600,0.1583
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,421.47,0.1112
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1801.37,0.4752
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1250,0.3297
+15/09/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,1000,0.2638
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1400,0.3739
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1033.33,0.2759
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Retail,UGX,616.67,0.1647
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,503.02,0.1343
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1550,0.4139
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1850,0.494
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3762.4,1.0047
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.267
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1767,0.4719
+15/10/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1233.33,0.3294
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1300,0.3517
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Wholesale,UGX,1075,0.2908
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,639.39,0.173
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.2705
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1600,0.4328
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3664.65,0.9914
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.2705
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5800,1.569
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2467,0.6674
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1390.83,0.3762
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Retail,UGX,1125,0.3043
+15/11/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,vegetables and fruits,Plantains,KG,actual,Wholesale,UGX,950,0.257
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1200,0.3226
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,648.28,0.1743
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.2688
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2750,0.7393
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3679.75,0.9893
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1000,0.2688
+15/12/2018,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5800,1.5593
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4098
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,725.9,0.1983
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.2732
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1617,0.4417
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2317,0.633
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1150,0.3142
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5400,1.4752
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2617,0.7149
+15/01/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1776.57,0.4853
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1167,0.3214
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2300,0.6334
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2300,0.6334
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3171.4,0.8734
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1100,0.3029
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5267,1.4506
+15/02/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2700,0.7436
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4081
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,789.91,0.2149
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1700,0.4625
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3282.12,0.8929
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1200,0.3265
+15/03/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2056.24,0.5594
+15/04/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1275,0.3448
+15/04/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1084.62,0.2933
+15/04/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1350,0.3651
+15/04/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1825,0.4935
+15/04/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3528.77,0.9542
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1550,0.4153
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2250,0.6028
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2450,0.6564
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3681.43,0.9863
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1300,0.3483
+15/05/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3600,0.9645
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1400,0.3757
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1145.47,0.3074
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1550,0.4159
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2350,0.6306
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1275,0.3421
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5050,1.355
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3552.5,0.9532
+15/06/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2480.63,0.6656
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1143.91,0.313
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1375,0.3762
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2150,0.5882
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1262.5,0.3454
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5080,1.3898
+15/07/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3287.5,0.8994
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1287.5,0.3524
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,882.6,0.2415
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1275,0.3489
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2087.5,0.5713
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3211.18,0.8788
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1218.75,0.3335
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3337.5,0.9134
+15/08/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2600.44,0.7117
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,904.81,0.2454
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1525,0.4136
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2333.5,0.6329
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3205.54,0.8694
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1265,0.3431
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5200,1.4104
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3391.5,0.9199
+15/09/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2905.74,0.7881
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1166.67,0.3187
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1049.97,0.2869
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1533.33,0.4189
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2200,0.6011
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1750,0.4781
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5066.67,1.3843
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3466.67,0.9471
+15/10/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2814.54,0.769
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1100,0.3011
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1140.94,0.3123
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1475,0.4037
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1725,0.4721
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1200,0.3284
+15/11/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3425,0.9374
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1246.94,0.3386
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2350,0.6381
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3572.94,0.9702
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1275,0.3462
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3350,0.9096
+15/12/2019,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2079.65,0.5647
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1350,0.3718
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1107.92,0.3052
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1225,0.3374
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1625,0.4476
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1425,0.3925
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3450,0.9503
+15/01/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2659.98,0.7327
+15/02/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1450,0.3921
+15/02/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1575,0.426
+15/02/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1550,0.4192
+15/02/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3500,0.9466
+15/02/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,3085.79,0.8345
+15/03/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3343.03,0.8905
+15/03/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,3295.11,0.8777
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1175.71,0.316
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2375,0.6384
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,1750,0.4704
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3801.8,1.0219
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1650,0.4435
+15/04/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4200,1.129
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1475,0.3936
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1155.11,0.3082
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1425,0.3802
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2350,0.627
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3583.72,0.9562
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1525,0.4069
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4250,1.134
+15/05/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,3221.41,0.8595
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,901.8,0.245
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2200,0.5977
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3010.16,0.8178
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,6083,1.6527
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3400,0.9237
+15/06/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2350.6,0.6386
+15/07/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,702.05,0.1918
+15/07/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2929.58,0.8003
+15/07/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3516,0.9605
+15/08/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,638.48,0.1734
+15/08/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1013,0.2751
+15/08/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2803.94,0.7614
+15/08/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,6000,1.6294
+15/08/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3554,0.9651
+15/09/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.2728
+15/09/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2000,0.5456
+15/09/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,6000,1.6369
+15/09/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4000,1.0913
+15/09/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2928.68,0.799
+15/10/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,711.25,0.1937
+15/10/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4000,1.0895
+15/10/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2417.66,0.6585
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,715.92,0.1924
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1104,0.2967
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1775,0.4771
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2302.96,0.619
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1975,0.5308
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3040,0.8171
+15/11/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2447.59,0.6578
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,890,0.2449
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1980,0.5449
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2167.36,0.5964
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1871,0.5149
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,5625,1.548
+15/12/2020,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3060,0.8421
+15/01/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,665.4,0.1816
+15/01/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,800,0.2184
+15/01/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1500,0.4095
+15/01/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1750,0.4777
+15/01/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3267,0.8918
+15/02/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,739.57,0.2038
+15/03/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,550.16,0.1521
+15/03/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2278.45,0.6301
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4209
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1000,0.2806
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2000,0.5612
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2116.94,0.594
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2300,0.6454
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3000,0.8418
+15/04/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2620.34,0.7353
+15/05/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4211
+15/05/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.7018
+15/05/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.2456
+15/05/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3500,0.9825
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,836.4,0.2397
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,950,0.2723
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2200,0.6306
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2190.58,0.6279
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2560,0.7338
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2300,0.6593
+15/06/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1510.87,0.4331
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1420,0.4057
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,960,0.2743
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2450,0.7
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1540,0.44
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2500,0.7142
+15/07/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1858.07,0.5308
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1400,0.3952
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,880.4,0.2485
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,950,0.2682
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1950,0.5504
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2700,0.7621
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2098.13,0.5922
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1580,0.446
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.2581
+15/08/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1830.97,0.5168
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1520,0.4355
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,980.32,0.2809
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1217,0.3487
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1980,0.5673
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2883,0.826
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1620,0.4642
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2255,0.6461
+15/09/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1995.06,0.5716
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1450,0.4061
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1065.53,0.2984
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2790,0.7814
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2197.35,0.6154
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1520,0.4257
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,7583,2.1238
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2200,0.6162
+15/10/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1818.56,0.5093
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1675,0.4797
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1088.11,0.3117
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1133,0.3245
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2040,0.5843
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3000,0.8592
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2261.43,0.6477
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1400,0.401
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.2913
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2089,0.5983
+15/11/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,1571.11,0.45
+15/12/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1960,0.5565
+15/12/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,2950,0.8377
+15/12/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1400,0.3975
+15/12/2021,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.2716
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1320,0.3742
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,821.15,0.2328
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,1800,0.5102
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2223.5,0.6303
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1086,0.3078
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.2678
+15/01/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,1560,0.4422
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4313
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,938.18,0.2698
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.1502
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2383.39,0.6853
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,1600,0.4601
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,8000,2.3004
+15/02/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2400,0.6901
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,1500,0.4215
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1040.13,0.2923
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1500,0.4215
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2100,0.5901
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3875,1.0889
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,2860.49,0.8038
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,2500,0.7025
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,9875,2.775
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,2925,0.822
+15/03/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2294.53,0.6448
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2000,0.5748
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize,KG,actual,Wholesale,UGX,1180.71,0.3393
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1800,0.5173
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,2500,0.7184
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.1495
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3160.38,0.9082
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3500,1.0058
+15/04/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2365.34,0.6797
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2300,0.6275
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3000,0.8184
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3700,1.0094
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Rice,KG,actual,Wholesale,UGX,3296.23,0.8993
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.8184
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,11400,3.1101
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3500,0.9548
+15/05/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Wholesale,UGX,2694.75,0.7352
+15/06/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2200,0.5928
+15/06/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3340,0.9
+15/06/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3500,0.9431
+15/06/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,12600,3.3951
+15/06/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3600,0.97
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.672
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2425,0.6518
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3825,1.0281
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3875,1.0415
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,10875,2.9231
+15/07/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4000,1.0751
+15/08/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.671
+15/08/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3600,0.9663
+15/08/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0737
+15/08/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3917,1.0514
+15/08/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4517,1.2124
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.6632
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,3000,0.7959
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0611
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3900,1.0346
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,10000,2.6529
+15/09/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4840,1.284
+15/10/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.6529
+15/11/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2800,0.7541
+15/11/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2700,0.7271
+15/11/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0773
+15/11/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3700,0.9965
+15/11/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,12000,3.2318
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2900,0.7935
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2900,0.7935
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3900,1.0672
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3900,1.0672
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,12100,3.311
+15/12/2022,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3600,0.9851
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2875,0.7768
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2000,0.5404
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0808
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3625,0.9795
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,10750,2.9047
+15/01/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,3375,0.912
+15/02/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2750,0.7596
+15/02/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2175,0.6008
+15/02/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3275,0.9046
+15/02/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3875,1.0703
+15/02/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3125,0.8632
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,3000,0.8116
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2600,0.7034
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3560,0.9631
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0821
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3900,1.0551
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,10800,2.9217
+15/03/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,5000,1.3527
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,3000,0.7986
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2625,0.6988
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3500,0.9317
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0648
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3500,0.9317
+15/04/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,11500,3.0612
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,3000,0.8176
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2875,0.7835
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3500,0.9539
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0901
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3825,1.0424
+15/05/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,6250,1.7033
+15/06/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2800,0.7633
+15/06/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3500,0.9542
+15/06/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0905
+15/06/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3800,1.0359
+15/06/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,12000,3.2714
+15/07/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2850,0.7825
+15/07/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2250,0.6178
+15/07/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3500,0.961
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2850,0.7753
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3250,0.8841
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0882
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3250,0.8841
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,11500,3.1285
+15/08/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4500,1.2242
+15/09/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2000,0.543
+15/09/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3500,0.9503
+15/09/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.8146
+15/09/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,12000,3.2583
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2600,0.6899
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2067,0.5485
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3167,0.8404
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3667,0.973
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Sorghum,KG,actual,Retail,UGX,3000,0.796
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,11667,3.0958
+15/10/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4667,1.2384
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.6704
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,2000,0.5363
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3000,0.8045
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,4000,1.0727
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,oil and fats,Oil (vegetable),L,actual,Retail,UGX,11000,2.9499
+15/11/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4500,1.2068
+15/12/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Cassava flour,KG,actual,Retail,UGX,2500,0.6689
+15/12/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize (white),KG,actual,Retail,UGX,1875,0.5017
+15/12/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Maize flour,KG,actual,Retail,UGX,3000,0.8027
+15/12/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,cereals and tubers,Millet,KG,actual,Retail,UGX,3625,0.97
+15/12/2023,Kampala,Central Kampala,Owino,0.322805,32.574841,pulses and nuts,Beans,KG,actual,Retail,UGX,4200,1.1238
